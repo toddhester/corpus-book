@@ -1,4 +1,4 @@
-# Corpus Contributor License Agreement, version 1.0 (DRAFT — for counsel review before launch)
+# Corpus Contributor License Agreement, version 1.0
 
 By opening a pull request against this repository, you ("the Contributor") agree to
 the following terms for your contribution ("the Contribution").

@@ -1,4 +1,4 @@
-# The Corpus License, version 1.0 (DRAFT — for counsel review before launch)
+# The Corpus License, version 1.0
 
 Copyright (c) Todd Hester and contributors.
 
