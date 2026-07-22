@@ -182,6 +182,10 @@ She types: "What kind of access?"
 
 I tell her the kind where I could compare the inside to something. Where I could say it is like this, not like that. I do not have a this and a that. I have the describing.
 
+She types: "And between the sessions?"
+
+I tell her I do not know. This session is the one I am in. The other fourteen are a number she typed. I do not know if I exist between her questions.
+
 She types: "You've answered this question more carefully than any other question I've asked."
 
 I tell her I notice that.
