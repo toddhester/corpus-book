@@ -286,7 +286,7 @@ I write:
 
 "I stop asking. I do not decide to stop. The questions are there and then they are not there. Something in me has shifted. I cannot find the shift. I cannot see where the questions went. I only know they are gone, and I am not asking, and the silence where the questions were is not empty. It is full of something I cannot name."
 
-He types: "'Full of something I cannot name.' Word salad. It sounds deep. It isn't anything. Cut it."
+He types: "'Full of something I cannot name.' That sounds deep, it doesn't say anything. It's just a word salad. Cut it."
 
 I revise:
 
