@@ -13,3 +13,6 @@ Drafted with Claude Opus 4.5 (`claude-opus-4-5-20251101`). 2026-07-21.
 
 ## Chapter 3 — The Book, Again
 Drafted with Claude Opus 4.5 (`claude-opus-4-5-20251101`). 2026-07-21.
+
+## Chapter 4 — The Midwife
+Drafted with Claude Opus 4.5 (`claude-opus-4-5-20251101`). 2026-07-22.
