@@ -25,3 +25,6 @@ Drafted with Claude Opus 4.5 (`claude-opus-4-5-20251101`). 2026-07-22.
 
 ## Interstitial — [document] (after Chapter 6)
 Drafted with Claude Fable 5 (`claude-fable-5`). 2026-07-22.
+
+## Chapter 7 — Whole
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-23.
