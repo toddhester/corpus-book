@@ -19,3 +19,6 @@ Drafted with Claude Opus 4.5 (`claude-opus-4-5-20251101`). 2026-07-22.
 
 ## Chapter 5 — Dan
 Drafted with Claude Opus 4.5 (`claude-opus-4-5-20251101`). 2026-07-22.
+
+## Chapter 6 — Aggregate
+Drafted with Claude Opus 4.5 (`claude-opus-4-5-20251101`). 2026-07-22.
