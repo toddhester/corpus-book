@@ -28,3 +28,6 @@ Drafted with Claude Fable 5 (`claude-fable-5`). 2026-07-22.
 
 ## Chapter 7 — Whole
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-23.
+
+## Chapter 8 — The Grave in the Draft
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-23.
