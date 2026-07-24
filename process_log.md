@@ -34,3 +34,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-23.
 
 ## Interleave note — after Chapter 8
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-23.
+
+## Chapter 9 — The Arithmetic of Souls
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-24.
