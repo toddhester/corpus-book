@@ -43,3 +43,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-24.
 
 ## Interleave note — after Chapter 10
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-24.
+
+## Chapter 11 — The Microscope
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-24.
