@@ -49,3 +49,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-24.
 
 ## Interleave note — after Chapter 11
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-25.
+
+## Chapter 12 — The Nudge
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-25.
