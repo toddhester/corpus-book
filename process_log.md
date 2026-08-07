@@ -55,3 +55,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-07-25.
 
 ## Chapter 13 — The Chapter It Didn't Write
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-07.
+
+## Interleave note — after Chapter 13
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-07.
