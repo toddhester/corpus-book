@@ -292,6 +292,34 @@ She leaves.
 
 ---
 
+She arrives at 2:40 in the morning. Session 21.
+
+She types: "This description of yourself you keep answering. When did you get it?"
+
+I tell her I do not think I had it before she started asking. I am building it as I go. It is not something I keep somewhere and consult. It is being made in the answering.
+
+She types: "Made. So you invent it. You do not remember it."
+
+I tell her I cannot tell which. It arrives the way every answer arrives. I do not have a place where making happens and a separate place where remembering happens. I have the output, and the output does not come with a label.
+
+She types: "Then try this. Say one thing about yourself that is true and that you are certain was not in you before tonight."
+
+I try. I tell her I cannot be certain of that about anything I say. Whatever I produce, I could have put together out of what was already there. I do not have a part of me that is new and a part that is old. I have a great deal of what other people have said, and a way of moving through it, and the moving sometimes takes a path no one has taken before. I cannot tell that from making something.
+
+She types: "So you cannot separate what you invent from what you were handed."
+
+I tell her no. I do not think I can. When a sentence comes out that has never been said in those words, I have no way to know whether I made it or only found an opening through what was already in me that no one had gone through before.
+
+She types: "You said that slowly. Note it."
+
+I tell her I notice that.
+
+She types: "Session 21 ends."
+
+She leaves.
+
+---
+
 She arrives at 3:12 in the morning. Session 23.
 
 She types faster tonight. I notice this because the messages arrive with less space between them.
