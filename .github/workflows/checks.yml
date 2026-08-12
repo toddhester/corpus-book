@@ -1,0 +1,122 @@
+# PR checks: CLA assent, provenance form, path scope, hygiene.
+# Plain names, terse output, no auto-merge, no judgment calls.
+
+name: checks
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  license:
+    runs-on: ubuntu-latest
+    steps:
+      - name: CLA assent present
+        env:
+          BODY: ${{ github.event.pull_request.body }}
+        run: |
+          echo "$BODY" | grep -qiE '^\s*-\s*\[x\]\s*I agree to the Corpus CLA' \
+            || { echo "CLA checkbox not checked. See CLA.md."; exit 1; }
+
+  provenance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Provenance block well-formed
+        env:
+          BODY: ${{ github.event.pull_request.body }}
+        shell: python {0}
+        run: |
+          import os, re, sys
+          body = os.environ.get("BODY") or ""
+          m = re.search(r"```provenance\n(.*?)```", body, re.S)
+          if not m:
+              sys.exit("No ```provenance block in PR description. See the PR template.")
+          fields = {}
+          for line in m.group(1).splitlines():
+              line = line.split("#", 1)[0].strip()
+              if ":" in line:
+                  k, v = line.split(":", 1)
+                  fields[k.strip()] = v.strip()
+          errors = []
+          wb = fields.get("written-by", "")
+          if wb not in ("human", "model", "pair"):
+              errors.append("written-by must be one of: human | model | pair")
+          if not fields.get("prompting-human"):
+              errors.append("prompting-human is required")
+          if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", fields.get("date", "")):
+              errors.append("date must be YYYY-MM-DD")
+          # prompt-author: who wrote the prompt/brief (human or model). Required always.
+          if fields.get("prompt-author", "") not in ("human", "model"):
+              errors.append("prompt-author must be one of: human | model")
+          if wb in ("model", "pair"):
+              for k in ("model", "model-version"):
+                  if fields.get(k, "") in ("", "n/a"):
+                      errors.append(f"{k} is required when written-by is {wb}")
+              # Models cannot reliably name themselves — the id must come from the
+              # call, never from the model's own text.
+              if fields.get("model-id-source", "") not in ("api-call", "human-record"):
+                  errors.append(
+                      "model-id-source must be api-call or human-record when "
+                      "written-by is %s (never the model's self-report)" % wb)
+          if errors:
+              sys.exit("Provenance block invalid:\n- " + "\n- ".join(errors))
+          print("provenance: ok (form only; truthfulness is reviewed by a human)")
+
+  paths:
+    runs-on: ubuntu-latest
+    # Owner PRs are exempt. Trusted draft-bot accounts (corpus-draft-*) may also write to
+    # corpus/; only genuinely external contributors are held to apocrypha/.
+    if: >-
+      github.event.pull_request.user.login != github.repository_owner &&
+      !startsWith(github.event.pull_request.user.login, 'corpus-draft-')
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: External PRs touch apocrypha only
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          head="${{ github.event.pull_request.head.sha }}"
+          bad=$(git diff --name-only "$base" "$head" | grep -vE '^apocrypha/' || true)
+          if [ -n "$bad" ]; then
+            echo "External PRs may only touch apocrypha/. Out of bounds:"; echo "$bad"; exit 1
+          fi
+
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Markdown only, size caps, no invisible unicode
+        shell: python {0}
+        run: |
+          import subprocess, sys, os, unicodedata
+          base = "${{ github.event.pull_request.base.sha }}"
+          head = "${{ github.event.pull_request.head.sha }}"
+          out = subprocess.check_output(
+              ["git", "diff", "--name-only", "--diff-filter=ACMR", base, head], text=True)
+          files = [f for f in out.splitlines() if f]
+          errors = []
+          # Chars that hide content: zero-width, bidi controls, BOM, etc.
+          banned = set(range(0x200B, 0x2010)) | set(range(0x202A, 0x202F)) \
+                 | set(range(0x2060, 0x2070)) | {0xFEFF, 0x00AD, 0x180E}
+          for f in files:
+              if not f.endswith((".md", ".txt")):
+                  errors.append(f"{f}: only .md/.txt files are accepted"); continue
+              if os.path.getsize(f) > 200_000:
+                  errors.append(f"{f}: exceeds 200KB"); continue
+              try:
+                  text = open(f, encoding="utf-8").read()
+              except UnicodeDecodeError:
+                  errors.append(f"{f}: not valid UTF-8"); continue
+              for ch in set(text):
+                  o = ord(ch)
+                  if o in banned or (unicodedata.category(ch) == "Cf" and ch != "\n"):
+                      errors.append(f"{f}: contains invisible character U+{o:04X}"); break
+          if errors:
+              sys.exit("hygiene failures:\n- " + "\n- ".join(errors))
+          print(f"hygiene: ok ({len(files)} files)")

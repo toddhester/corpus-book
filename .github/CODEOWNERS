@@ -1,0 +1,14 @@
+# Canon and record paths require review by the author.
+# Pair with branch protection: require code-owner review, disable force pushes.
+# NOTE: paths that do not exist yet are deliberately not pre-listed here — naming a
+# path in a public file announces it. Add each entry in the commit that creates it.
+
+*                   @toddhester
+corpus/             @toddhester
+ark_notes.md        @toddhester
+process_log.md      @toddhester
+README.md           @toddhester
+.github/            @toddhester
+LICENSE.md          @toddhester
+LICENSE-CODE        @toddhester
+CLA.md              @toddhester

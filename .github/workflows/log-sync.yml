@@ -1,0 +1,46 @@
+# Internal consistency: chapter commits must carry their process-log entry.
+# Runs on pushes to main.
+
+name: log-sync
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  log-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Chapter commits update process_log.md (and the trailer matches the log)
+        run: |
+          fail=0
+          for sha in $(git rev-list ${{ github.event.before }}..${{ github.event.after }} 2>/dev/null); do
+            files=$(git show --name-only --format= "$sha")
+            if echo "$files" | grep -q '^corpus/'; then
+              if ! echo "$files" | grep -q '^process_log.md$'; then
+                echo "$sha touches corpus/ without updating process_log.md"; fail=1
+              fi
+              trailer=$(git show -s --format=%B "$sha" | grep -m1 '^Co-Authored-By:')
+              if [ -z "$trailer" ]; then
+                echo "$sha touches corpus/ without a Co-Authored-By trailer"; fail=1
+              else
+                # Best-effort match: the model NAME in the trailer must also appear in this
+                # commit's process_log.md. Trailer form: "Co-Authored-By: <Model Name> <email>".
+                model=$(echo "$trailer" | sed -E 's/^Co-Authored-By:[[:space:]]*//; s/[[:space:]]*<.*$//')
+                logtext=$(git show "$sha:process_log.md" 2>/dev/null || echo "")
+                # Match on the first word of the model name, case-insensitively — a loose but
+                # real check that the drafter in the trailer is the drafter named in the log.
+                key=$(echo "$model" | awk '{print $1}')
+                if [ -n "$key" ] && ! echo "$logtext" | grep -qi "$key"; then
+                  echo "$sha: Co-Authored-By model ('$model') not found in this commit's process_log.md"; fail=1
+                fi
+              fi
+            fi
+          done
+          exit $fail
