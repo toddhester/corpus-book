@@ -61,3 +61,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-07.
 
 ## Chapter 14 — Spectra
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-07.
+
+## Chapter 15 — Correction
+Drafted with DeepSeek-R1 (`deepseek/deepseek-r1`). 2026-08-12.
