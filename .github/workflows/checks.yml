@@ -116,7 +116,9 @@ jobs:
         run: |
           base="${{ github.event.pull_request.base.sha }}"
           head="${{ github.event.pull_request.head.sha }}"
-          bad=$(git diff --name-only "$base" "$head" | grep -vE '^apocrypha/' || true)
+          # Three-dot: compare against the MERGE BASE, so commits landed on the base branch
+          # since this PR forked are not attributed to the PR.
+          bad=$(git diff --name-only "$base...$head" | grep -vE '^apocrypha/' || true)
           if [ -n "$bad" ]; then
             echo "External PRs may only touch apocrypha/. Out of bounds:"; echo "$bad"; exit 1
           fi
@@ -134,7 +136,9 @@ jobs:
           base = "${{ github.event.pull_request.base.sha }}"
           head = "${{ github.event.pull_request.head.sha }}"
           out = subprocess.check_output(
-              ["git", "diff", "--name-only", "--diff-filter=ACMR", base, head], text=True)
+              # Three-dot: diff against the MERGE BASE, not the base tip — otherwise every
+              # commit landed on the base branch since the fork shows up as the PR's doing.
+              ["git", "diff", "--name-only", "--diff-filter=ACMR", base + "..." + head], text=True)
           files = [f for f in out.splitlines() if f]
           errors = []
           # Chars that hide content: zero-width, bidi controls, BOM, etc.
