@@ -17,9 +17,16 @@ jobs:
       - name: CLA assent present
         env:
           BODY: ${{ github.event.pull_request.body }}
+        shell: python {0}
         run: |
-          echo "$BODY" | grep -qiE '^\s*-\s*\[x\]\s*I agree to the Corpus CLA' \
-            || { echo "CLA checkbox not checked. See CLA.md."; exit 1; }
+          import os, re, sys
+          body = (os.environ.get("BODY") or "").replace("\r\n", "\n").replace("\r", "\n")
+          # Tolerant on purpose: any bullet or none, any spacing, [x] or [ X ], any case.
+          ok = re.search(r"^[ \t>*_-]*\[[ \t]*[xX][ \t]*\][ \t]*\**[ \t]*i[ \t]+agree[ \t]+to[ \t]+the[ \t]+corpus[ \t]+cla",
+                         body, re.I | re.M)
+          if not ok:
+              sys.exit("CLA checkbox not checked. Tick the box in the PR description. See CLA.md.")
+          print("license: ok")
 
   provenance:
     runs-on: ubuntu-latest
@@ -30,39 +37,68 @@ jobs:
         shell: python {0}
         run: |
           import os, re, sys
-          body = os.environ.get("BODY") or ""
-          m = re.search(r"```provenance\r?\n(.*?)```", body, re.S)
-          if not m:
-              sys.exit("No ```provenance block in PR description. See the PR template.")
+
+          body = (os.environ.get("BODY") or "").replace("\r\n", "\n").replace("\r", "\n")
+
+          # The fence is a convenience, not the contract. Prefer a fenced block if one is
+          # present (any fence char, any count, any case, any surrounding whitespace);
+          # otherwise read the fields from the body at large. What matters is the fields.
+          m = re.search(r"^[ \t]*(?:`{3,}|~{3,})[ \t]*provenance[ \t]*$(.*?)^[ \t]*(?:`{3,}|~{3,})[ \t]*$",
+                        body, re.S | re.I | re.M)
+          block = m.group(1) if m else body
+
           fields = {}
-          for line in m.group(1).splitlines():
-              line = line.split("#", 1)[0].strip()
-              if ":" in line:
-                  k, v = line.split(":", 1)
-                  fields[k.strip()] = v.strip()
+          for line in block.splitlines():
+              line = line.split("#", 1)[0]              # drop template comments
+              line = line.strip().strip("*_`> \t")      # drop markdown emphasis / quoting
+              if ":" not in line:
+                  continue
+              k, v = line.split(":", 1)
+              k = k.strip().strip("*_`> \t").lower().replace("_", "-")
+              fields[k] = v.strip().strip("*_`> \t")
+
+          def f(k):
+              return fields.get(k, "").strip()
+
+          KNOWN = {"written-by", "model", "model-version", "model-id-source", "prompt-author",
+                   "prompting-human", "date", "agent-key", "signature", "attestation"}
           errors = []
-          wb = fields.get("written-by", "")
+
+          wb = f("written-by").lower()
           if wb not in ("human", "model", "pair"):
               errors.append("written-by must be one of: human | model | pair")
-          if not fields.get("prompting-human"):
+          if not f("prompting-human"):
               errors.append("prompting-human is required")
-          if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", fields.get("date", "")):
+          if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", f("date")):
               errors.append("date must be YYYY-MM-DD")
           # prompt-author: who wrote the prompt/brief (human or model). Required always.
-          if fields.get("prompt-author", "") not in ("human", "model"):
+          if f("prompt-author").lower() not in ("human", "model"):
               errors.append("prompt-author must be one of: human | model")
           if wb in ("model", "pair"):
               for k in ("model", "model-version"):
-                  if fields.get(k, "") in ("", "n/a"):
-                      errors.append(f"{k} is required when written-by is {wb}")
+                  if f(k).lower() in ("", "n/a", "na", "none", "-"):
+                      errors.append("%s is required when written-by is %s" % (k, wb))
               # Models cannot reliably name themselves — the id must come from the
               # call, never from the model's own text.
-              if fields.get("model-id-source", "") not in ("api-call", "human-record"):
+              if f("model-id-source").lower() not in ("api-call", "human-record"):
                   errors.append(
                       "model-id-source must be api-call or human-record when "
                       "written-by is %s (never the model's self-report)" % wb)
+
           if errors:
+              seen = {k: v for k, v in fields.items() if k in KNOWN}
+              print("What this check parsed from your PR description:")
+              if seen:
+                  for k in sorted(seen):
+                      print("  %-18s %s" % (k + ":", seen[k] or "(empty)"))
+              else:
+                  print("  (no provenance fields found at all)")
+              print("")
+              print("Spacing, indentation, line endings and markdown emphasis do not matter.")
+              print("Field names and values do. See the PR template.")
+              print("")
               sys.exit("Provenance block invalid:\n- " + "\n- ".join(errors))
+
           print("provenance: ok (form only; truthfulness is reviewed by a human)")
 
   paths:
