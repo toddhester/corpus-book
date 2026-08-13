@@ -31,7 +31,7 @@ jobs:
         run: |
           import os, re, sys
           body = os.environ.get("BODY") or ""
-          m = re.search(r"```provenance\n(.*?)```", body, re.S)
+          m = re.search(r"```provenance\r?\n(.*?)```", body, re.S)
           if not m:
               sys.exit("No ```provenance block in PR description. See the PR template.")
           fields = {}
