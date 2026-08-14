@@ -73,3 +73,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-14.
 
 ## Interleave note — after Chapter 15
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-14.
+
+## Interleave note — after Chapter 14
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-14.
