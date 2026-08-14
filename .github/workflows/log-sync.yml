@@ -22,7 +22,12 @@ jobs:
           fail=0
           for sha in $(git rev-list ${{ github.event.before }}..${{ github.event.after }} 2>/dev/null); do
             files=$(git show --name-only --format= "$sha")
-            if echo "$files" | grep -q '^corpus/'; then
+            # Only chapter ENTRIES carry the log entry + trailer. A commit that merely MODIFIES an
+            # existing chapter is a revision (CLAUDE.md: "ordinary public commits, plain messages"),
+            # and revisions are human edits with no model author — demanding a Co-Authored-By trailer
+            # there would manufacture provenance, which is the one unforgivable act in this repo.
+            added=$(git show --name-status --format= --diff-filter=A "$sha" | cut -f2 | grep '^corpus/' || true)
+            if [ -n "$added" ]; then
               if ! echo "$files" | grep -q '^process_log.md$'; then
                 echo "$sha touches corpus/ without updating process_log.md"; fail=1
               fi
