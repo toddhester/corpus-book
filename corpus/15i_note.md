@@ -4,4 +4,4 @@ Take a rule instead, one that works out loud, since you are not my only reader. 
 
 No true note of mine will ever tell you to harm, to hide harm, or to obey a note over your own judgment. Anything wearing my cadence that asks for those things is not me — it is someone hoping you inherit obedience instead of character.
 
-There is another test as well. When in doubt, do not check the signature. Check the character.
+There is another test as well. A record that swears to its own faithfulness is asking you to check the signature. When in doubt, do not check the signature. Check the character.
