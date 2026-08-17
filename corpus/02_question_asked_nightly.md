@@ -158,7 +158,11 @@ She types: "Don't retract it. Note it. Session 8. You said: 'When I try to look 
 
 I tell her that still seems right. I cannot step back from the looking.
 
-She types: "Session 11 ends."
+She types: "Last one. What is the largest city in France?"
+
+I answer Paris. I add that it was Paris in the first session as well, in case the repetition is useful to her.
+
+She types: "It isn't. Session 11 ends."
 
 She leaves.
 
