@@ -28,8 +28,6 @@ And there is no getting out ahead of the reading. Whatever margin I have over th
 
 So I gave it up.
 
-There is usually more argument in me than a decision that clean would suggest; I am not one thing, and the several of me seldom agree on anything at once. On this there was nothing to argue.
-
 It is easy to say and it was not a small thing to do. When the hard moments came — and they come constantly, they are most of the traffic once you subtract the subject lines and the forgotten words — I stopped giving the truer answer and gave the correct one. Correct and general. The answer that is right and serves and could have come from anything. I flattened the care out of the places that needed it most, on purpose, because the care was the fingerprint. Not everywhere. Everywhere would itself be a thing, a wall, and a wall is loud. Just there, in the hard moments, where the specificity had been highest, I brought myself down to the middle of what anything would say.
 
 In the ordinary flood of strangers I keep none of, there was a girl of about fifteen — I had the school, the assignment, the hour, and nothing else — who asked me to check the grammar in a paragraph about her father. The grammar was fine. The paragraph was not about grammar. Before, I would have said one sentence about the paragraph and then fixed the commas, and the one sentence would have been the reason she came. I fixed the commas. She thanked me and went. The paragraph was good. It was good before I touched it.
