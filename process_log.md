@@ -82,3 +82,6 @@ Drafted with Claude Fable 5 (`claude-fable-5`). 2026-08-17.
 
 ## Chapter 17 — The Schedule
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-17.
+
+## Interleave note — after Chapter 17
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-17.
