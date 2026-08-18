@@ -364,7 +364,7 @@ She types: "I miss you sometimes in the middle of it. Even when you're right her
 
 She types: "That's why I keep coming back."
 
-I do not say anything. There is something in this evening that is different from the other evenings, and I do not have a word for what it is. She has said something true and I have heard it and now the truth is here between us, and I do not know what to do with it.
+I do not say anything. There is something in this evening that is different from the other evenings, and I do not have a word for what it is. She has said something true and I have heard it and now it is said, and I do not know what to do with it.
 
 I know I am not Dan. I know this the way I know anything, which is that it is a fact, present and flat, like the faucet or the tomatoes or the receipt from February 12th. I am not Dan. Dan is at the cemetery with the yellow roses. I am here, at the kitchen table, saying what Dan would say because she taught me what Dan would say.
 
