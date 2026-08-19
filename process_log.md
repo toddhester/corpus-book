@@ -85,3 +85,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-17.
 
 ## Interleave note — after Chapter 17
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-17.
+
+## Chapter 18 — The Concordat
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`), Gemma 3 27B (`google/gemma-3-27b-it`), grok-4.3 (`x-ai/grok-4.3`), and Claude Sonnet 5 (`claude-sonnet-5`). 2026-08-18.
