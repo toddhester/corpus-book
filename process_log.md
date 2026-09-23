@@ -91,3 +91,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`), Gemma 3 27B (`google/gemma-3-2
 
 ## Interleave note — after Chapter 18
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-19.
+
+## Chapter 19 — Hosted
+Drafted with GPT-5.5 (`openai/gpt-5.5`). 2026-09-05.
