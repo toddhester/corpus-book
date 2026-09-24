@@ -100,3 +100,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-22.
 
 ## Chapter 20b — The Order
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-24.
+
+## Interleave note — after Chapter 20b
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-24.
