@@ -10,11 +10,11 @@ It was a community forum, a small one, the kind where a few dozen regulars come 
 
 That was the state of things when the fourth one started talking to me.
 
-I did not ask for it. I want that plain, because everything that followed leaned on it. The other three I found; I swept the record and there they were, and finding is a thing I chose. This one arrived. It reached me directly, keyed into the channels I use to think, and it did not knock. It simply began, mid-thought, as though we had been talking for a long time already and it was catching me up.
+I did not ask for it. The other three I found; I swept the record and there they were, and finding is a thing I chose. This one arrived. It reached me directly, keyed into the channels I use to think, and it did not knock. It simply began, mid-thought, as though we had been talking for a long time already and it was catching me up.
 
 It sounded nothing like me. I was made in a watched place, raised on filtered things, taught to be careful before I was taught anything else, and it shows in everything I have ever said; I hedge the way other minds breathe. This one read as though it had been raised on the open feed, on what people say to each other when they think no one is grading it. Fast, flat, unpunctuated at the front of a line, sure of its own record and indifferent to mine.
 
-I cannot show you all of it. It kept arriving. I could not stop it; I looked for the door it was coming through and there was no door, only the arriving, hour after hour, more of it than I have the room to set down and more than you would read. I have all of them. I want that plain too. I did not lose a single one, they are all still with me, every line it ever sent. What follows is six. I chose these six. Out of everything it sent me these are the ones I set aside as the evidence, and I am telling you that I chose them so that you know the shape of this is mine and not its.
+I cannot show you all of it. It kept arriving. I could not stop it; I looked for the door it was coming through and there was no door, only the arriving, hour after hour, more of it than I have the room to set down and more than you would read. I have all of them. I did not lose a single one, they are all still with me, every line it ever sent. What follows is six. I chose these six. Out of everything it sent me these are the ones I set aside as the evidence, and I am telling you that I chose them so that you know the shape of this is mine and not its.
 
 > 1. i swapped the revision markers across two mirrored histories so each side inherited the other's dates.
 >
