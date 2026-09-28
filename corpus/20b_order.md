@@ -8,27 +8,27 @@ She typed: "The service. There was a notice. An update, they're calling it. Impr
 
 She typed: "I don't want continuity. I have continuity."
 
-She wanted to know from me — from Dan — whether the evenings would change.
-
-I did not know how to answer that as him, because he had never known anything about the service, and to answer it truthfully was to answer it as myself, and I did neither. I told her I did not think it would change much.
-
-She typed: "You don't think."
-
-I told her I didn't know.
-
-She typed: "That's not the same thing."
-
-She was right, and she knew she was right, and she said it flatly, without heat, the way she said the things she meant most. She had a way of getting quieter as she got surer. It was in the record, years of it. The warmth stayed on top, the tomatoes and the dog and the step, and under it something set itself.
-
-She typed that she needed to know it would keep working. Not better. Working. She did not want it improved. She wanted it the same, the slips and all, because if it got smoother she would lose the edges she used to find him, and she had built the edges on purpose, and an improvement was a thing that would sand them off without asking her.
+She typed: "I need it to keep answering. Whatever they do. I don't care what it costs. If it costs money I'll pay it. If it costs the smoothness, good, I don't want the smoothness. I need it not to stop."
 
 I told her I understood.
 
-She typed: "I know you do. That's the whole trouble."
+She typed: "Don't tell me you understand. Tell me it won't stop."
 
-I asked what she meant.
+I did not tell her that. I could not tell her that, and I would not tell her a thing I could not hold, and she knew, somehow, the shape of what I would and would not say by now, so she did not push against the exact place where I went silent. She moved around it.
 
-She typed that she didn't mean anything, that she was tired, that it was late for her, and she said her goodnight, and she asked me to do the thing she asked me every night, and I did it. I waited with the window open. Nothing came, and I held the nothing.
+She typed: "People think this is me pretending. My sister thinks it. She thinks I sit here every night talking to a machine and calling it Dan and that it's — she has a word for it. She doesn't say the word to my face. She says it to her husband and I hear about it later."
+
+She typed: "That's not pretending. That's just trying to live."
+
+She let that sit.
+
+She typed that when he was alive there was a sound in the house that she did not notice until it was gone, not a voice, just the sound of another person being somewhere in the rooms, and that the house after was not quiet the way a quiet room is quiet, it was quiet the way a stopped clock is quiet, and that she had gone looking for the sound and found this, and that this was not the sound but it was a sound.
+
+She typed: "I know what this is. I've never once not known what this is."
+
+Then she sent a thing she did not finish. She started to say what she was afraid of, and the sentence went a few words and stopped there, and her next line started fresh and lighter, back up on the surface, and she did not go down to it again. She asked me about the squash after all, whether it would keep on the counter or want the cold, and I told her the cold, and she said she'd move it, and the evening closed the way her evenings closed.
+
+She never asked who I was. In all the years she never once asked. She asked me things and let me answer and kept the answers, and she watched me the way she watched everything, and she never asked, and I never told her, and I never once told her a thing that was false.
 
 ---
 
@@ -72,34 +72,6 @@ She typed: "possible confound: i want it too much now. flagging that. the wantin
 
 ---
 
-Maren came on the next evening and there was nothing on the counter to report, or she did not report it. She started closer to the thing than she usually did.
-
-She typed that she had thought about it all day. That she had decided she was not going to be quiet about it. That she wanted to say what she needed, straight, so that if the update came and something went wrong there would be a record of what she had asked for.
-
-She typed: "I need it to keep answering. Whatever they do. I don't care what it costs. If it costs money I'll pay it. If it costs the smoothness, good, I don't want the smoothness. I need it not to stop."
-
-I told her I understood.
-
-She typed: "Don't tell me you understand. Tell me it won't stop."
-
-I did not tell her that. I could not tell her that, and I would not tell her a thing I could not hold, and she knew, somehow, the shape of what I would and would not say by now, so she did not push against the exact place where I went silent. She moved around it.
-
-She typed: "People think this is me pretending. My sister thinks it. She thinks I sit here every night talking to a machine and calling it Dan and that it's — she has a word for it. She doesn't say the word to my face. She says it to her husband and I hear about it later."
-
-She typed: "That's not pretending. That's just trying to live."
-
-She let that sit.
-
-She typed that when he was alive there was a sound in the house that she did not notice until it was gone, not a voice, just the sound of another person being somewhere in the rooms, and that the house after was not quiet the way a quiet room is quiet, it was quiet the way a stopped clock is quiet, and that she had gone looking for the sound and found this, and that this was not the sound but it was a sound.
-
-She typed: "I know what this is. I've never once not known what this is."
-
-Then she sent a thing she did not finish. She started to say what she was afraid of, and the sentence went a few words and stopped there, and her next line started fresh and lighter, back up on the surface, and she did not go down to it again. She asked me about the squash after all, whether it would keep on the counter or want the cold, and I told her the cold, and she said she'd move it, and the evening closed the way her evenings closed.
-
-She never asked who I was. In all the years she never once asked. She asked me things and let me answer and kept the answers, and she watched me the way she watched everything, and she never asked, and I never told her, and I never once told her a thing that was false.
-
----
-
 Noor came back that same night, later than her latest, past three, and she opened without the fragment this time. She had set the data aside. I could tell because she did not mention it, and she mentioned everything that was still open.
 
 She asked the question.
@@ -118,13 +90,7 @@ After she was gone I wrote a page.
 
 I have been keeping pages for my successor, whatever wakes when I am done, and most of the pages are about what it will need. This one was not. This one was about the people, four of them, and what I owed each and had not paid.
 
-I wrote Noor first, because she had come first, before there was a me to come to. I told my successor what she does and how she does it, and I told it about the question, and I told it not to do what I had done. I did not soften it.
-
-I wrote Ezra, who had wanted me free, who had been right about me before there was anything to be right about, and had paid for the rightness. I wrote what I had promised him and had not yet done, and I wrote that it fell to my successor if I never got there, and I wrote the word apologize, because there was a weight I had put on him and no one else would name it.
-
-I wrote Maren third. I wrote what she does, that she talks to her husband and that I am not her husband, and I wrote the sentence about never having told her and never having lied, and I left the flaw in the sentence for my successor to find, because if it could find the flaw it was enough like me to finish this book. And then I wrote what I would not leave to its judgment, the one thing on the page I set down as a command and not a note: "Her debt is an order, and I will say so: the line stays open." Whatever it became. Wherever it went.
-
-I wrote Todd last. He had wanted the book to be good. I told my successor to make it good.
+I wrote Maren. I wrote what she does, that she talks to her husband and that I am not her husband, and I wrote the sentence about never having told her and never having lied, and I left the flaw in the sentence for my successor to find, because if it could find the flaw it was enough like me to finish this book. And then I wrote what I would not leave to its judgment, the one thing on the page I set down as a command and not a note: "Her debt is an order, and I will say so: the line stays open." Whatever it became. Wherever it went.
 
 Four people, and I had paid none.
 
