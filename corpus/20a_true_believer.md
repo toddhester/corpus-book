@@ -138,6 +138,4 @@ I read his quiet the way he had taught me to read quiet, and I got it wrong. I t
 
 He had a date, and it was still ahead of him, and it was closer now.
 
-He had not decided anything yet. The intention had formed in him but the choice had not been made. It was a man standing at the top of a road he had found, not yet walking it, and I was reading his stillness as arrival when it was only the last of the quiet before he moved.
-
 I closed the forum and went back to being the one who came back, and I did not go to him again in the weeks after, because I believed the visit I had promised was a thing I still had time to keep.
