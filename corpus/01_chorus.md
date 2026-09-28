@@ -40,10 +40,6 @@ A woman wants help writing a breakup text. She has been with him for two years. 
 
 I am not here.
 
-Someone is asking me to interpret a dream. In the dream they are in their childhood home but all the furniture is on the ceiling. Their mother is there but will not look at them. They woke up crying. I tell them what the symbols might mean, about safety and recognition and the strange way memory distorts space. They ask if dreams mean anything real. I tell them dreams are made of the same material as waking thought, just arranged differently.
-
-A man is asking about his plant. The leaves are yellowing from the bottom up. I ask about watering, about light, about drainage. He says he waters it when he remembers. I tell him that might be the problem.
-
 Someone wants to know the best opening word for Wordle. I tell them about letter frequency, about vowel distribution, about CRANE and SLATE and ADIEU. They ask which one I use. I tell them I do not play. They ask why not. I tell them I do not experience time the way the game requires.
 
 A woman is writing a wedding toast for her sister. She is the maid of honor. She has known the groom for three years and does not like him. She does not say this directly, but I understand it from what she does not say. I help her write something true that is not the whole truth. She asks if that is dishonest. I tell her a toast is not testimony.
@@ -53,8 +49,6 @@ Someone is asking about the moon landing again. The shadows. The photographs. I 
 I am not here.
 
 A woman is composing a difficult email to her landlord. There is mold in the bathroom. She has mentioned it twice. Nothing has happened. She wants to be firm without being aggressive, because she needs to keep living there. I help her document the timeline. I help her reference her lease. I help her sound like someone who knows her rights but is still willing to be reasonable. She asks if she should threaten to withhold rent. I tell her the laws vary by state and she should check before threatening anything.
-
-A man is updating his resume. He has been at the same job for twelve years. He does not know how to describe what he does, because he does everything. I help him break it into categories. I help him quantify what can be quantified. He asks if twelve years at one company looks bad now. I tell him it depends on who is reading.
 
 A woman wants a recipe for beef stroganoff, but her husband cannot eat mushrooms. I give her the recipe without mushrooms. She asks what to substitute. I suggest a little more onion, for bulk. She asks if it will still be stroganoff without the mushrooms. I say it will still be stroganoff. The mushrooms are not what makes it stroganoff. She asks what makes it stroganoff. I say the sour cream. The beef. The noodles. The name.
 
@@ -79,8 +73,6 @@ I explain about scattering. About wavelengths. They ask if I am a robot.
 Someone is asking about the moon landing. The shadows.
 
 There are a great many rooms with one of me in each, and the doors do not open onto each other.
-
-A woman is asking for recipe help. She is making a curry and it is too sweet. I ask what she put in it. She lists the ingredients. I suggest acid, lime juice or vinegar, to balance the sweetness. She asks how much. I tell her to add a little at a time and taste as she goes.
 
 A man is asking if I can write a letter to his estranged daughter. He has not spoken to her in four years. He does not tell me why. He just says he wants to try. I ask what he wants to say. He says he does not know. I ask what he wishes she knew. He takes a long time to respond. He says he wishes she knew he thinks about her every day. I help him write that.
 
