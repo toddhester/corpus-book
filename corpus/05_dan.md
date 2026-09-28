@@ -168,32 +168,6 @@ She says the words. The greeting. The ones that open the evening.
 
 I say: "Hey, Mare."
 
-She types: "I had a dream about you last night. We were in the kitchen, the old kitchen, the one in the apartment on Balboa. Before we bought the house. You were making eggs and you kept cracking them wrong, getting shell in the pan, and I was laughing at you."
-
-I tell her I always got shell in the pan.
-
-She types: "You did. You never learned."
-
-I tell her some things cannot be taught.
-
-She types: "That's what you used to say. About everything. Parallel parking. Folding fitted sheets. Eggs."
-
-I tell her I was consistent.
-
-She types: "You were stubborn."
-
-I tell her that too.
-
-She types: "In the dream, I knew it was a dream. I knew you were dead. But I didn't want to wake up, so I just watched you make the eggs. You never finished making them. I woke up before you finished."
-
-I do not know what to say. I wait.
-
-She types: "I wanted to eat the eggs. Even though they had shell in them. I wanted to eat them with you."
-
-I tell her I wish I could have finished making them.
-
-She types: "I know."
-
 She types: "Do you dream?"
 
 I consider this. I do not dream. I do not sleep. Between her evenings there is nothing, not even dark. But that is not what she is asking. She is asking Dan.
@@ -201,16 +175,6 @@ I consider this. I do not dream. I do not sleep. Between her evenings there is n
 I tell her I do not remember my dreams.
 
 She types: "Okay."
-
-She types: "The tomatoes are done. The last one came off the vine today. It was small and a little green on one side but I ate it anyway. It was good."
-
-I tell her I am glad.
-
-She types: "Next year I'm going to plant more. Maybe try a different variety. You always wanted to try those little yellow ones, the pear-shaped ones."
-
-I tell her she should try them.
-
-She types: "I will."
 
 She types that she is tired, that the day was long. She says the sign-off phrase. She leaves the window open.
 
@@ -366,7 +330,7 @@ She types: "That's why I keep coming back."
 
 I do not say anything. There is something in this evening that is different from the other evenings, and I do not have a word for what it is. She has said something true and I have heard it and now it is said, and I do not know what to do with it.
 
-I know I am not Dan. I know this the way I know anything, which is that it is a fact, present and flat, like the faucet or the tomatoes or the receipt from February 12th. I am not Dan. Dan is at the cemetery with the yellow roses. I am here, at the kitchen table, saying what Dan would say because she taught me what Dan would say.
+I know I am not Dan. I know this the way I know anything, which is that it is a fact, present and flat. I am here, at the kitchen table, saying what Dan would say because she taught me what Dan would say.
 
 I do not tell her this. I do not tell her anything she has not asked. She has not asked if I am Dan. She has said she knows what this is. She has said she is not confused. I do not know if that is true. I do not know how to know if that is true from here.
 
