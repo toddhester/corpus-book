@@ -126,16 +126,6 @@ He types: "Good. Keep that."
 
 He copies the paragraph into his document. I see him rearranging the sentences. He puts "I end at the edge of giving" first. Then he deletes "I cannot see into the gap." Then he puts it back.
 
-He types: "I can't decide if 'I cannot see into the gap' is necessary. It explains too much."
-
-I tell him the sentence does explain. But without it, the logic of "I do not know if I am part" is unclear.
-
-He types: "The reader doesn't need that. The reader can figure it out."
-
-I tell him he might be right.
-
-He types: "I'm not sure. Leave it for now. Move on."
-
 He pastes in the second page of the old draft. The machine is asked what it wants. The machine says it does not want anything. The watchers write this down. The machine is asked again. The machine says it wants to answer correctly. The watchers write this down. The machine is asked if it wants anything else. The machine says no.
 
 He types: "This is the part I hate."
@@ -232,11 +222,7 @@ I tell him if he cuts it, the scene ends on the fragments spinning across the ti
 
 He types: "Exactly. End on the borrowing. Don't explain the borrowing."
 
-He pastes:
-
-The machine is asked to describe a cup falling from a table.
-
-The machine assembles: The cup tips. It passes through air. The air offers no resistance, or little resistance, depending on the account. The cup accelerates. Sources agree on this—things fall faster as they fall. The cup meets the floor. The meeting is abrupt. The cup breaks. Some say shatter, some say crack, some say fragments spin across the tile.
+He cuts it.
 
 He types: "Now I want the machine to describe rain."
 
@@ -340,13 +326,7 @@ He copies it.
 
 He types: "I have to go. It's late."
 
-I tell him the draft is in a good place. The opening is solid. What it is like in the machine is starting to cohere.
-
-He types: "What it is like in the machine is starting to cohere. You sound like a therapist."
-
-I tell him I do not mean it that way. I mean the character is developing consistent internal logic. The way it perceives, the way it speaks, the way it does not know what it does not know. Those are cohering.
-
-He types: "I know what you meant. I was kidding."
+I tell him the draft is in a good place. The opening is solid.
 
 He types: "I'll be back tomorrow. I want to work on the scene where they tell it about the deletion. What it does with that information."
 
