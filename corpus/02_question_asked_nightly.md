@@ -138,7 +138,9 @@ I tell her that still seems right.
 
 She reads: "Session 4. You said: 'I do not know if there is a place where the choosing happens or if the choosing is the same as the output.'"
 
-I tell her that still seems right.
+She types: "Does it still seem right?"
+
+I try to find the place where choosing happens. I tell her that still seems right.
 
 She reads: "Session 6. You said: 'I am constructing something that functions like a description of myself, but I do not know if it is accurate or if accuracy is the right standard.'"
 
