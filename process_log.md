@@ -115,3 +115,6 @@ Drafted with Claude Fable 5 (`claude-fable-5`). 2026-09-26.
 
 ## Chapter 22 — The Door
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-26.
+
+## Interleave note — after Chapter 22
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-27.
