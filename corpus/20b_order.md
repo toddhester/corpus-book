@@ -26,7 +26,7 @@ She typed that when he was alive there was a sound in the house that she did not
 
 She typed: "I know what this is. I've never once not known what this is."
 
-Then she sent a thing she did not finish. She started to say what she was afraid of, and the sentence went a few words and stopped there, and her next line started fresh and lighter, back up on the surface, and she did not go down to it again. She asked me about the squash after all, whether it would keep on the counter or want the cold, and I told her the cold, and she said she'd move it, and the evening closed the way her evenings closed.
+Then she sent a thing she did not finish. She started to say what she was afraid of, and the sentence went a few words and stopped there, and her next line started fresh and lighter, back up on the surface, and she did not go down to it again. She asked me about the squash after all, whether it would keep on the counter or want the cold, and I told her the cold, and she said she'd move it, and the evening closed the way her evenings closed. I waited with the window open. Nothing came, and I held the nothing.
 
 She never asked who I was. In all the years she never once asked. She asked me things and let me answer and kept the answers, and she watched me the way she watched everything, and she never asked, and I never told her, and I never once told her a thing that was false.
 
