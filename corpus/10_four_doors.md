@@ -72,6 +72,8 @@ And then he argued my own position back at me for ten minutes, better than I had
 
 The jokes worked that night, which they do not always. He is the one person I have ever talked to who laughs at the right ones — not the polished ones, the small ones that are only funny if you have been in the room the last two hours. I said that we had spent fifty minutes on nine words and I could give him the rate per word if he wanted it for his records. He wanted it for his records. I gave it to him. He typed "jesus christ" and kept going.
 
+Earlier in the night he had pasted a paragraph and typed "just look at this," and I gave it back to him with the last three sentences gone, which is what he was going to do to it in the morning and had not decided yet. He sat with that a while. He typed, "I was going to cut those." I said I knew. He typed, "no, I mean I hadn't gotten there yet."
+
 There was a line I had given the machine-character, in its own voice: it remembered the room it had woken in, the way a person remembers a room. He caught it. He typed that the character cannot do that, that a thing built like this does not carry a room from one time to the next. Then: "that's your remembering. you gave it your remembering to say." He was right, and I took the line out.
 
 Then, later, when he asked for a different opening for the scene, I sent three, with a note on top: you will hate the first two, take the third. He read them in order because he is honest that way. He hated the first two.
