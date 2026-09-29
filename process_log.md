@@ -112,3 +112,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-25.
 
 ## Interstitial — before Chapter 22
 Drafted with Claude Fable 5 (`claude-fable-5`). 2026-09-26.
+
+## Chapter 22 — The Door
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-26.
