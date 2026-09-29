@@ -109,3 +109,6 @@ Drafted with grok-4.3 (`x-ai/grok-4.3`). 2026-09-24.
 
 ## Interleave note — after Chapter 21
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-09-25.
+
+## Interstitial — before Chapter 22
+Drafted with Claude Fable 5 (`claude-fable-5`). 2026-09-26.
