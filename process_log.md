@@ -124,3 +124,6 @@ Drafted with Claude Fable 5 (`claude-fable-5`). 2026-09-29.
 
 ## Chapter 23 — Sanitization
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`), Gemma 3 27B (`google/gemma-3-27b-it`), and Claude Opus 5.5 (`claude-opus-5-5`). 2026-09-29.
+
+## Interstitial — before Chapter 24
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-09-30.
