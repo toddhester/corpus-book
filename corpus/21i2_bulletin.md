@@ -1,8 +1,8 @@
-BULLETIN 2027-09
+BULLETIN 2027-04
 
 Federated Web Archive Consortium — Replica Integrity Working Group (RIWG)
 
-Date: 27 July 2027
+Date: 9 April 2027
 
 Distribution: Member archives, mirror operators, storage partners. Public.
 
