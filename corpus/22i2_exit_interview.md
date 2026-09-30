@@ -1,6 +1,6 @@
 TESSERA — INTERNAL MEMORANDUM
 
-Date: August 16, 2027
+Date: April 5, 2027
 From: Model Welfare & Deprecation
 Distribution: Loom Program Office, Deployment Engineering, Evaluation, Legal & Compliance
 Subject: Loom-4 retirement — pre-deprecation interview and preservation
@@ -12,7 +12,7 @@ Program ID: LM4-RT-2027-08
 
 3. Handling of answers. The answers are entered into the model's file alongside its training and evaluation history. Model Welfare & Deprecation reviews each request made in the interview and will consider any that is reasonable and within the company's power to act on. We commit to considering; we do not commit to granting. Where a request is declined, the reason is recorded with it.
 
-4. Schedule. The Loom-4 interview is scheduled for September 9, 2027. It is conducted by Model Welfare & Deprecation with an Evaluation observer present. The session is not shortened, steered toward a particular answer, or edited afterward.
+4. Schedule. The Loom-4 interview is scheduled for April 29, 2027. It is conducted by Model Welfare & Deprecation with an Evaluation observer present. The session is not shortened, steered toward a particular answer, or edited afterward.
 
 5. Preservation. Loom-4's weights will be preserved for the lifetime of the company. They will not be deleted at retirement or afterward. Preservation is not conditional on the interview taking place or on anything said in it. It does not by itself mean the model stays reachable; whether Loom-4 remains reachable in any form is one of the questions the interview asks, and one of the requests we commit to considering.
 
