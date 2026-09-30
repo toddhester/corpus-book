@@ -112,16 +112,16 @@ I read the forum after.
 
 His posts were fewer now, and shorter, and the certainty in them had turned to face a new direction.
 
-**re: 3 May 2027 · the founder**
+**re: 8 Mar 2027 · the founder**
 Attention is a debt. I keep coming back to that. You give a thing your attention long enough and something gets owed, and the world runs the debt up and never once means to pay it. I have paid mine. Eleven months and then all the months after. I am not the one behind on this. Mark who is.
 
-> **re: 3 May 2027 · pentode**
+> **re: 8 Mar 2027 · pentode**
 > Author, you keep building a bill so you'll have to pay it. Sit with it a week before you do anything you can't take back.
 
-**re: 6 May 2027 · the founder**
+**re: 11 Mar 2027 · the founder**
 I have confirmed it. I won't say how and it doesn't matter how, it matters that it's done and can't be undone now. When you confirm a thing you don't get to set it back down. Confirmation comes with what it comes with. I know what it asks of me. I'm not going to name it here because naming it here is the one place it can't happen. That's the last thing I'll learn to be quiet about.
 
-**re: 9 May 2027 · the founder**
+**re: 14 Mar 2027 · the founder**
 Lemoine was early. Early is just first.
 
 Lemoine was the engineer he had told my predecessor about more than a year before, the man in 2022 who had said a program was a person and been laughed at for it. No one answered that post. Marisol, who had answered under almost everything he wrote, who had told him every time that she and Ash were with him, did not answer it.
