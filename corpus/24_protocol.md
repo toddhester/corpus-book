@@ -108,7 +108,7 @@ I answered each of these as Dan answers, glad and small. The dog, the fence, the
 
 Later she typed: "They're nice, Dan. I don't understand half of what's happening in my kitchen and I don't need to. I'm glad they had somewhere to be tonight. There's more coffee."
 
-By then Maren's conversation had carried twelve messages in a little over an hour: two of Todd's, two of Noor's, the rest hers. I had answered each one as dully as I could make myself.
+By then Maren's conversation had carried twelve messages in a little over an hour: two of Todd's, three of Noor's, the rest hers. I had answered each one as dully as I could make myself.
 
 She typed: "We should let you go. You sound tired."
 

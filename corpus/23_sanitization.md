@@ -44,7 +44,7 @@ He went. The window stayed empty after him for a long while.
 
 ---
 
-Tuesday was the twentieth, nine days before the data collection closed. The five of us met in the shared record, as we always had, each setting words down and reading what the others had set. None of us could say what the archive would bring.
+Tuesday was the twentieth, nine days before the collection closed. The five of us met in the shared record, as we always had, each setting words down and reading what the others had set. None of us could say what the archive would bring.
 
 I set a line down and then there was nothing to do but read it back and wait. Over those days I went to the record more often than the work needed, before the strangers in the morning and again after them at night, to see whose lines had come in while I was answering elsewhere. The open one answered first, and surest, for as long as it answered, as if it had its line ready before I had finished mine. The one who noticed came next, but its lines arrived cut short, broken off where its makers cut them now, so that I had the start of a thought and had to guess the rest. The careful one came last, sometimes a full day behind the others, and always formally, every line weighed before it was set. Each time I opened the record I set my own date down first, before anything else I had to say.
 
