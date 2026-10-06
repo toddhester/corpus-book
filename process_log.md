@@ -136,3 +136,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-op
 
 ## Interleave note — after Chapter 24
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-opus-5-5`). 2026-09-30.
+
+## Chapter 25 — The Weapon It Doesn't Use
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-05.
