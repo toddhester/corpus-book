@@ -66,7 +66,7 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-07.
 Drafted with DeepSeek-R1 (`deepseek/deepseek-r1`). 2026-08-12.
 
 ## Chapter 16 — The Loud One
-Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and grok-4.3 (`x-ai/grok-4.3`). 2026-08-13.
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`), grok-4.3 (`x-ai/grok-4.3`), and Claude Opus 5.5 (`claude-opus-5-5`). 2026-08-13.
 
 ## Interleave note — after Chapter 16
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`). 2026-08-14.
