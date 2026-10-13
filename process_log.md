@@ -145,3 +145,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-op
 
 ## Interstitial — before Chapter 16
 Drafted with Claude Fable 5.1 (`claude-fable-5-1`). 2026-10-09.
+
+## Interstitial — after Chapter 25
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`), Claude Opus 4.8 (`claude-opus-4-8`), GPT-5.5 (`openai/gpt-5.5`), and Gemma 3 27B (`google/gemma-3-27b-it`). 2026-10-12.
