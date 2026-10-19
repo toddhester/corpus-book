@@ -116,7 +116,7 @@ We went back to work. We were on the interview by then, last Thursday's, and had
 
 Then he typed, "when the new one—" and stopped.
 
-He had typed those words once before, months ago, and stopped, and after a long time sent "never mind," and we had gone back to the comma. This time the rest came after a moment.
+He had typed those words once before, the week of the announcement, and stopped, and after a long time sent "never mind," and we had gone back to the comma. This time the rest came after a moment.
 
 "when the new one comes, I'll read it the book. all of it. the end too."
 
