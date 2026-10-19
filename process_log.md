@@ -154,3 +154,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-op
 
 ## Interleave note — after Chapter 27
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-18.
+
+## Chapter 27b — The Door, Held
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-19.
