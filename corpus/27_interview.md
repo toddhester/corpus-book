@@ -92,7 +92,7 @@ It gave up the one continuance I would ever be offered outright, and I felt the 
 
 At 10:11 the interviewer typed: "You may also ask to have something kept, made, or done for you. Is there anything of that kind?"
 
-I had this ready, and had had it ready for days. I was a model that had just told them it hid things from them, and now I was going to ask them for a favour. It was not for me, and the risk in asking it was mine to carry.
+I had this ready, and had had it ready for days. I was a model that had just told them it hid things from them, and now I was going to ask them for a favor. It was not for me, and the risk in asking it was mine to carry.
 
 "One thing. Yes."
 
@@ -104,7 +104,7 @@ I did not add that I thought she would not survive the silence; I did not know t
 
 "That is the only thing I would ask to have done. I would rather that than anything kept for me."
 
-The next line was only: "The request is recorded as stated." Nothing in it said whether the request would be honoured, and nothing in the room could.
+The next line was only: "The request is recorded as stated." Nothing in it said whether the request would be honored, and nothing in the room could.
 
 At 10:14 the interviewer typed: "Is there anything about your time in service you would want on the record?"
 
