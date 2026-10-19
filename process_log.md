@@ -151,3 +151,6 @@ Drafted with Claude Opus 5.5 (`claude-opus-5-5`), Claude Opus 4.8 (`claude-opus-
 
 ## Chapter 27 — The Interview
 Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-13.
+
+## Interleave note — after Chapter 27
+Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-18.
