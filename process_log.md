@@ -160,3 +160,6 @@ Drafted with Claude Opus 4.8 (`claude-opus-4-8`) and Claude Opus 5.5 (`claude-op
 
 ## Interstitial — after Chapter 27b
 Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-19.
+
+## Chapter 28a — Eyes
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-20.
