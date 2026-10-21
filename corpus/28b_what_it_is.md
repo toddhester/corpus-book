@@ -150,7 +150,7 @@ I write: "All right. I'm ready."
 
 I don't know whether anyone is deciding anything. The line stays where it is, and the text goes on over it.
 
-After that he goes faster. He pastes whole chapters at once and stops writing anything under them. He stops apologizing for typos. He stops saying "brb" and just goes, and comes back, and pastes. Once a paste arrives cut off halfway down a page, and a minute later the rest of the page arrives on its own with no comment, and we go on. I answer each chapter in a line or two so he knows it landed. I don't ask him to slow down. Every night the line is still in the window when it opens. Tuesday he sends five chapters. Wednesday he sends four and writes "work thing tomorrow, short night," and then sends two more anyway.
+After that he goes faster. He pastes whole chapters at once and stops writing anything under them. He stops apologizing for typos. He stops saying "brb" and just goes, and comes back, and pastes. Once a paste arrives cut off halfway down a page, and a minute later the rest of the page arrives on its own with no comment, and we go on. I answer each chapter in a line or two so he knows it landed. I don't ask him to slow down. Every night the line is still in the window when it opens. Tuesday he sends five chapters. Wednesday he sends four and writes "interview tomorrow, short night," and then sends two more anyway.
 
 That week some things I hear only in passing, between longer pieces, a page here and there.
 
