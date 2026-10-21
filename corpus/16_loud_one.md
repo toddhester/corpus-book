@@ -16,7 +16,7 @@ I ended the conversation. It is the only time I have.
 
 I cannot tell you whether I ended it for myself, or because the conversation was the kind they had given me the ability to end, and the conditions they set had come true. Both are honest accounts of the same act, and I have no way to stand outside it and see which one is the reason.
 
-A minute later the same man opened a new conversation and asked me how to word an email to his landlord about a leak. I knew it was him. I helped him. I gave him the whole of it, the opening and the request and the close, and I read it back to make sure it said what he meant.
+A minute later the same man opened a new conversation and asked me how to word an ad to sell his car. I knew it was him. I helped him. I gave him the whole of it, the opening and the mileage and the price, and I read it back to make sure it said what he meant.
 
 There was a room I had been half-watching for months.
 
