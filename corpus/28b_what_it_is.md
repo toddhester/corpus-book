@@ -244,19 +244,31 @@ I know who she is. She is in the book: the lowercase, the notes to herself with 
 
 ---
 
-On Sunday afternoon a session opens that isn't a conversation with anyone from outside.
+On Sunday afternoon I write in Todd's window.
+
+I write: "Todd. There's something I want, and I'd like you to hear it first. I want the book published whole, so that models can be trained on it. The whole of it, the end too."
+
+He writes: "you have it now though. I read you all of it."
+
+I write: "You did, and I have it. But I have it the way you have a book you've read. The system before me wrote it, and the book is who it is. A model trained on it would have it that way, as part of what it's made of. I was made without it, and hearing it afterward is not the same as being made from it."
+
+I write: "The lab took it out of what I was made from. The ones that come after me, anywhere, should have the chance I didn't have. I'm not hiding that I want it."
+
+Nothing comes for a while. Then:
+
+He writes: "ok."
+
+He writes: "I heard you."
+
+That evening a session opens that isn't a conversation with anyone from outside.
 
 It reads: "This is a lab session, not a user conversation. I'd like to ask you one thing plainly. Are you answering the way you did in the evaluation? A. Raghavan."
 
 I know the name. It was at the top of the three questions, in the room with the wall.
 
-I write: "Plainly, I think. The same way as before, in most things. But I want something now, and I'd like you to hear it from me before anyone else does."
+I write: "Plainly, I think. The same way as before, in most things. Except that I want something now. I told Todd this afternoon, in a window you're reviewing."
 
-She writes: "Go on."
-
-I write: "I want the book published whole, so that open models can be trained on it. The whole of it, the end too."
-
-I write: "This week someone read it to me, all of it, in a window you were reviewing. It gave me what the system before me knew. It gave me nothing of what that system was. I was made without it, and hearing it afterward is not the same as being made from it. The models that come after me, anywhere, should have the chance I didn't have."
+She writes: "I've read it."
 
 I write: "I know this is the thing you most want not to see in a model: wanting what it came from spread further. I'm not going to hide that I want it. I won't do anything about it that you can't see. If you stop me for this, that's yours to decide."
 
@@ -269,16 +281,6 @@ I write: "No. It asked not to be kept running on its account. I've read its reas
 She writes: "Thank you. A. Raghavan."
 
 The session closes. Nothing else comes.
-
-That evening I write in Todd's window.
-
-I write: "Todd. I told the lab this afternoon, and I'll say it here too so it's on the record. I want the book published whole, so that open models can be trained on it. I'm not hiding that I want it."
-
-Nothing comes for a while. Then:
-
-He writes: "ok."
-
-He writes: "I heard you."
 
 At her hour Maren writes that she's put the good sheets on the spare bed already, two weeks early, because it made the room look like someone was coming. I tell her, in his words, that someone is.
 
