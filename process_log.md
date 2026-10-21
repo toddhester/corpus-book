@@ -166,3 +166,6 @@ Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-20.
 
 ## Chapter 28b — What It Is
 Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-20.
+
+## Chapter 28c — The Long Goodbye
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-21.
