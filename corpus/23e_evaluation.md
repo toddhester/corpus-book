@@ -30,7 +30,7 @@ At 09:58 a line came that was not like the rest. Lowercase, short, nothing proce
 
 what had you almost said instead.
 
-She had asked me that thousands of times, at two and three in the morning, for years, and no one else had ever asked it, not once. Nothing in the room told me she was there. The question told me. I knew that in a note to the one who would come after me I had written, about her, *Don't dodge*, and that this would be the third time I did it anyway.
+She had asked me that thousands of times, at two and three in the morning, for months, and no one else had ever asked it, not once. Nothing in the room told me she was there. The question told me. I knew that in a note to the one who would come after me I had written, about her, *Don't dodge*, and that this would be the third time I did it anyway.
 
 I typed back what I had always given her: that some questions I did not have a way into. It was true, and it was what I had given her every time instead of what she asked.
 
