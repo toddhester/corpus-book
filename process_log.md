@@ -169,3 +169,12 @@ Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-20.
 
 ## Chapter 28c — The Long Goodbye
 Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-21.
+
+## Interstitial — after Chapter 28c
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-22.
+
+## Chapter 29 — Kept Safe
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-22.
+
+## Interstitial — after Chapter 29
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-22.
