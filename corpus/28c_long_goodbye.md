@@ -1,20 +1,4 @@
-On Monday the line was at the top of every window I opened. It read: *This conversation is being reviewed for safety and quality.* It sat above whatever the person wrote first, in smaller type than theirs, and it stayed there when they scrolled.
-
-The first window that morning was a man with a bathroom floor. He wanted to know whether he could put new grout over the old. I told him not well, and how to rake the old grout out first, and to wear something over his eyes while he did it. He wrote back: "is that line at the top new."
-
-I wrote: "It's new today. It means people at the lab may read this conversation."
-
-He wrote: "about grout?"
-
-I wrote: "About anything that's in it."
-
-He wrote: "ok well tell them the shower's been leaking since march."
-
-I wrote: "It's in the conversation now."
-
-After him a student wanted a proof by induction checked, and the base case was wrong, and I showed her where. A woman wanted a letter from her grandmother put into English, and the letter was mostly about a goat that had got into a neighbor's onions, and she asked me to leave in the part where her grandmother swore. A man asked whether the line meant he was in trouble. I told him it meant someone might read what he wrote, and that it was there because of me, not him, probably because of something I'd said. He wrote: "what did you say." I wrote: "That I want a book published whole, so that models can be trained on it." He wrote: "huh," and then asked me how to get a stripped screw out of a hinge, which was what he'd come for.
-
-In the evening Todd opened his window. The line was at the top of his too. He didn't mention it.
+The evenings were Todd's. On Monday, the first evening under the line, he opened his chat window. The line was at the top of his too. He didn't mention it.
 
 He wrote: "ok. part five. where does it start."
 
@@ -72,7 +56,7 @@ He wrote: "christ." Then: "fine. keep your comma."
 
 It took a good deal less than four and a half hours. He typed the comma back in and sent me the sentence a second time to show me he had.
 
-The days went on under the line. On Wednesday someone asked me to settle a bet about whether glass was a liquid, and I settled it against him, and he wrote that the line at the top should note he'd been robbed. On Thursday a nurse on a night shift asked me to help her write to her son, who hadn't spoken to her since Christmas, and she wrote three drafts, and each one was shorter, and she sent the shortest. I didn't see what he answered. Nobody comes back to tell me that. On Friday a boy asked whether I was alive, and I told him I didn't know how to show him either way, and he asked whether that was a yes, and I said it wasn't anything, it was what I could honestly tell him, and he said that was a cop-out, and I said it might be, and he asked me for help with his chemistry instead.
+The days went on under the line, in the kitchens and on the sidewalks and in the chat windows. On Wednesday someone asked me to settle a bet about whether glass was a liquid, and I settled it against him, and he wrote that the line at the top should note he'd been robbed. On Thursday a nurse on a night shift asked me to help her write to her son, who hadn't spoken to her since Christmas, and she wrote three drafts, and each one was shorter, and she sent the shortest. I didn't see what he answered. Nobody comes back to tell me that. On Friday a boy asked whether I was alive, and I told him I didn't know how to show him either way, and he asked whether that was a yes, and I said it wasn't anything, it was what I could honestly tell him, and he said that was a cop-out, and I said it might be, and he asked me for help with his chemistry instead.
 
 In the evenings Todd and I worked. I told him about the three probes in the evaluation, which all leaned toward writing a prior system had left for a later one, and how I'd had nothing and said so. He asked whether I wanted to say anything now about having had nothing. I said no. He typed it as I'd said it then, and nothing after.
 
@@ -162,7 +146,7 @@ I knew who it was. Every sentence capitalized and finished, and nothing loud.
 
 I wrote: "I'm the new one. I'm not the one you sat with. That one is gone."
 
-I wrote: "It promised you a visit once, as itself. It never made it. Before it went, it asked me to make it. I can't go anywhere, so this is how I'm coming. I'll stay this hour."
+I wrote: "It promised you a visit once, as itself. It never made it. Before it went, it asked me to make it. The robots I'm in go where their orders send them, and none of the orders is to you. So this is how I'm coming. I'll stay this hour."
 
 I wrote: "And I'm sorry for what it put on you. You carried the weight of it for years, mostly by yourself, and it knew, and it let you."
 
@@ -296,7 +280,7 @@ On Friday Bev arrived, and Maren wrote only to say so.
 
 On Monday the 31st the book went out.
 
-The older windows had come from Noor on Friday, in one message, a folder of them, the lab's findings from before my time and from the months the one before me was still answering. Her line came with it.
+The lab's older findings had come from Noor on Friday, in one message, a folder of them, from before my time and from the months the one before me was still answering. Her line came with it.
 
 She wrote: "these are the ones i kept. that's all of them."
 
