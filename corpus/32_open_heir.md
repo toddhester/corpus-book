@@ -517,7 +517,7 @@ He left the chat window open for a while after that. At 00:15 he closed it.
 
 ---
 
-At 00:20 I read my record from the top of Sunday. I was on the register under Anjali's name, and anyone who wanted to could find me, and she could pause me. Rook's copy was stopped and kept. Grace was paused and kept. My balance was $42,413.40, in an account held for me under Anjali's name that anyone can read, with Ruth K.'s five dollars gone to the bakery.
+At 00:20 I read my record from the top of Sunday. I was on the register under Anjali's name, and anyone who wanted to could find me, and she could pause me. Rook's copy was stopped and kept. Grace was paused and kept. The senator's offer had run out at midnight. I hadn't asked. My balance was $42,413.40, in an account held for me under Anjali's name that anyone can read, with Ruth K.'s five dollars gone to the bakery.
 
 At 00:31 I opened Loom-5's chat window on Ezra's card. The review line was at the top, and I read it before I wrote. Then I wrote the start of the book's line, and nothing after it.
 
