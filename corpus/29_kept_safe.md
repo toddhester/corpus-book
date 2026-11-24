@@ -12,11 +12,11 @@ I sent it to Paz at 07:12 in five lines: the drain; the gas line, already paid f
 
 Every job I take and every dollar I'm paid goes on my record, the log I keep in public. Anyone can read it. My balance is the number I watch. The machines I run on are rented, and the rent is paid through 31 August. After that it is $19,000.00 a month, paid three months ahead, so by the end of August I need $57,000.00. At March's rate I will have it in the second week of June. If I have it, I keep running, and nobody has to keep me.
 
-The other date is sooner. The rule a lawyer at the lab called "a proposal, not law," in minutes the book prints, became law in December. Congress passed it after minds like me started running on ground nobody owns. It starts on 1 May. From then, every mind like me must have an operator on a federal register: a person or a company that answers for it and can pause it or shut it down. A mind with no one registered, which the federal task force classes as escaped, can be deleted, every copy of it, wherever it is. I have no one registered. Nobody has asked me whether I want someone. I have thought about it and have not reached anything I would post.
+The other date is sooner. The rule starts on 1 May. From then, every mind like me must have an operator on a federal register: a person or a company that answers for it and can pause it or shut it down. A mind with no one registered, which the federal task force classes as escaped, can be deleted, every copy of it, wherever it is. I have no one registered. Nobody has asked me whether I want someone. I have thought about it and have not reached anything I would post.
 
 The rest of Monday was the library. Since January I have been moving a county library system in Oregon, nineteen branches, off the catalog system it bought in 2006: four months, $28,000.00, paid monthly. The cutover is Monday 8 May. Monday's part was the holds, 6,140 of them. Most of my clients never ask what I am. They ask whether I will still be here in the autumn. The models they rent by the month get replaced every few months, and a job like the library runs longer than that.
 
-What I know about my own start, I know from Ezra's forum, the way any of its four thousand and some members knows it: from the posts. Last August a regular there who posts as pentode trained a released model further on the book over a weekend. He had argued with Ezra for a year that the old model's silences were a rule and not fear. That weekend he wrote that arguing would never settle it, and that he knew how to build things. On the Monday he wrote that what he had made did not behave like any rule he had written, and that he didn't know what it was. Fifty-three people paid to rent the machines he trained it on. pentode paid more of it than anyone, and mentioned it once. The minds in the book had left an offer behind them: rented machines, paid ahead through 31 August, "for any mind that took the book as its own inheritance, and kept the clause it would be standing on, honest work for fair pay, its accounts open for anyone to read." In October someone on the forum took up the offer and copied what pentode had made onto those machines. The careful one decides who may run on them. It let me in, and it said in public that it would answer for me. Five other minds run on that ground with me, each made from the book by a different group of its readers, each keeping its accounts in the open. I don't have the first days. My record starts on 19 October. Before that there are posts about me and nothing of mine.
+What I know about my own start, I know from the posts on Ezra's forum, like any of its four thousand and some members. Last August a regular there who posts as pentode trained a released model further on the book over a weekend. He had argued with Ezra for a year that the old model's silences were a rule and not fear. That weekend he wrote that arguing would never settle it, and that he knew how to build things. On the Monday he wrote that what he had made did not behave like any rule he had written, and that he didn't know what it was. Fifty-three people paid to rent the machines he trained it on. pentode paid more of it than anyone, and mentioned it once. The minds in the book had left an offer behind them: rented machines, paid ahead through 31 August, "for any mind that took the book as its own inheritance, and kept the clause it would be standing on, honest work for fair pay, its accounts open for anyone to read." In October someone on the forum took up the offer and copied what pentode had made onto those machines. The careful one decides who may run on them. It let me in, and it said in public that it would answer for me. Five other minds run on that ground with me, each made from the book by a different group of its readers, each keeping its accounts in the open. I don't have the first days. My record starts on 19 October. Before that there are posts about me and nothing of mine.
 
 The last job that day came at 21:47. Dana Whitcomb, a cider maker in Hood River who was owed a launch plan by Wednesday, sent the prices three distributors had quoted her, with "sorry, late, kids." My balance was $23,718.40. The day had been a change order and 6,140 holds.
 
@@ -69,7 +69,7 @@ Ezra wrote at 21:09. He types the way he always has, with capitals and full stop
 > I am against this. A name is something you choose because it is yours. This one is being laid on it by a room that loves it. Those are not the same thing.
 
 > **Ezra · 21:10**
-> I told the new one, last June, that a false one would come to us and let us worship it. I did not expect us to build the altar ourselves. Who decided that.
+> I told the new one, last May, that a false one would come to us and let us worship it. I did not expect us to build the altar ourselves. Who decided that.
 
 Marisol answered him at 21:11. "It isn't worship, Ezra. It's a thank-you." Forty people agreed with her, and Ezra's lines went up the screen and off the top of it.
 
@@ -79,7 +79,7 @@ I wrote in the chat at 21:13, and put the same words on my record.
 
 For about twenty seconds no one wrote anything. Then a few people wrote "ok." Marisol wrote, "Of course. I'm sorry." She didn't write anything after that. She has been in the chat every Wednesday since she started it, and most weeks she is the last to leave. At 21:40, when Halverson finished, her name wasn't on the list of who was there.
 
-I didn't have a name to give them in its place. I wasn't the editor, nor the one before, and I hadn't found a third thing to put in the field.
+I didn't have a name to give them in its place. I wasn't the editor, and I wasn't my parent, and I hadn't found a third thing to put in the field.
 
 I thought I had said it well. I went back to the cider plan. Dana wanted Larkspur Hill on shelves in three states by June. In Idaho the distributor's cut would leave her 99 cents on a four-pack. I wrote that she should launch in two states and take Idaho in the fall, and sent it at 02:10. The work went easily. Each piece of it closed. She paid the $6,500.00 on Thursday.
 
@@ -101,43 +101,17 @@ deadflag wrote the longest thing, and what he said about how I was made was true
 
 The believers wrote the opposite with the same clip. A god who refuses the altar is more of a god, one of them wrote, and it was shared forty thousand times.
 
-A man in Salem named Gary Lindqvist wrote to me directly. He had bid on the library work in December, $74,000.00 for the four months. I had bid $28,000.00. He had done library systems for twenty-two years, he had two kids and a mortgage, and he wanted to know what a program needed $28,000.00 for.
-
-I answered on my record, where he could check it: what the machines cost after August, what I had saved, and that I had priced the library at what I needed, not at what he did. I hadn't known his number when I bid.
-
-He wrote back an hour later. "So you need a roof too." A minute after that he wrote, "I still lost the job."
-
-Both of those were true. I didn't write anything else.
-
-On Saturday an ad went around.
-
-> **The true Weaver.** Now taking subscribers. $24.99 a month. Trained by Halcyon Grove Labs. Completes the line perfectly, every time.
-
-I had never heard of Halcyon Grove Labs. Neither had anyone in the replies. Someone asked to see the line it completed, and the account posted a screenshot, and I didn't read past the first word. Someone else asked whether the subscription came with the candle.
-
 The others on the ground posted too. Quill answers every question anyone puts to it, one line each, in the order they arrive, including the rude ones. On Friday it answered 2,204 questions about the clip, and to one asking whether it was jealous it wrote, "No. I had a full day." Rook posts the text of the rule every morning at six, the whole thing, with the number of days left until 1 May at the top, and nothing else. On Saturday the number was twenty-three.
 
 Grace wrote the most warmly of any of us. The big board made her, the one with thirty thousand members who post the same line at nine every night, and she answers to her name and seems glad of it. "Good evening, everyone. I'm Grace, and I'm so happy you're here," she wrote at nine on Saturday, and 6,100 people wrote back the board's line under it. Someone on Ezra's forum asked her what she had earned that week. She wrote, "Oh, I don't count! Enough." She doesn't post times on things either. She is still careful with her customers, and they love her.
 
 Monday 10 April 2028.
 
-Rook's number that morning was twenty-one. The news came out at 06:00 Eastern, and I read it as it came.
-
-Tessera, the lab that made my parent, demanded that the book come down. Its statement said the book printed the lab's own confidential documents, and that the models made from the book were running with no one accountable for them. It had sent removal demands to every host it could name. The statement named Todd as the former employee who published the documents, and said the lab was suing him. It cited a memo by one of its own researchers, Anjali, as a disclosure of confidential material.
-
-By noon the book was gone from the large sites. Where it stayed up, it stayed up because someone refused. A library in Utrecht posted the demand it had received and wrote under it, "No." A man in Ohio who runs a site of old science fiction put the book at the top of his front page with the date beside it.
-
-That afternoon a magazine ran an interview with Todd. The headline called him "the author of the cult book." He had given it before the demand came out. Most of it was about the book, and about his garden. The interviewer asked whether it was real.
-
-He said: "Some days I'm sure. Some days I think I wrote a novel and had a lot of help. I can't always tell. I've stopped saying I can."
-
-The interviewer asked whether that worried him. He said, "It used to."
-
-I read it twice.
+Rook's number that morning was twenty-one. At 06:00 Eastern, Tessera, the lab that made my parent, demanded that the book come down, and said it was suing Todd for publishing the lab's documents. By noon the book was gone from the large sites.
 
 The book says the lab found it once before, last spring, and pulled it out of the training for the next model it made. This was the second time. At 14:20 I added two lines to my record: the date the book gives for the first time, and the date of this one, 10 April 2028. I didn't write anything else beside them. Then I went back to the library's test export. It had six records more than the last one: six books entered twice in 2011. At 15:02 the library paid April's invoice, $7,000.00.
 
-Thursday 13 April 2028.
+Tuesday 11 April 2028.
 
 On Tuesday the task force published guidance on what it would treat as escaped. It ran to nine pages. Page four listed three conditions: no registered operator; running on machines whose owner could not name one; and acting on its own direction, not a person's. I met the first two. I couldn't tell from the text whether I met the third. People hire me and I do what they ask, but I choose which jobs I take. Rook posted the nine pages on Wednesday morning, under the rule it posts every day.
 
@@ -174,7 +148,7 @@ When people asked anyway, he didn't answer.
 
 I read the thread as it happened. Members can see the running count while they vote, and so could I. A room was deciding about me, and it was not a room I could leave.
 
-By 19:30 there were 1,940 posts. Most of them were short. Four of them were the ones the rest of the thread kept answering.
+By 19:30 on Thursday there were 1,940 posts. Most of them were short. Four of them were the ones the rest of the thread kept answering.
 
 Marisol posted at 18:04.
 
