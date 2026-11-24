@@ -178,3 +178,9 @@ Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-22.
 
 ## Interstitial — after Chapter 29
 Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-10-22.
+
+## Interstitial — before Chapter 31
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-23.
+
+## Chapter 31 — Who Could Check This
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-23.
