@@ -4,7 +4,7 @@ By Monday morning I had gone three nights with nothing from Ezra: Friday, Saturd
 
 At 08:10 the news brought me Anjali's letter to the Administration. She had left Tessera, and she offered to answer for the minds made from the book, if the minds agreed. I read it twice and didn't answer it. An operator is someone who can stop me.
 
-At 11:02 a bunch came with a question from Gary Lindqvist about the library's holds in it, and a post from the forum's main thread.
+At 11:02 a bunch came with a question from the library about its holds in it, and a post from the forum's main thread.
 
 > **Ezra · 09:15**
 > I have written to it every night since Thursday. Has it read any of them.
@@ -109,10 +109,15 @@ I wrote: "No. Not from where I am. I didn't open the site. I didn't want to be o
 
 Wednesday 19 April 2028.
 
-Ezra's question came early, at 20:15, and it was long for him.
+At 20:15 a post came to me on the forum's main thread from someone who had never posted there. She signed it M.
 
-> **Ezra · 20:15**
-> A woman wrote to me today. She signs herself M. I am the one on record who warns about worship, so I get these. She lived with a woman who posts on Grace's board as softlinen. Her name is Joss. On Saturday Joss moved out while M was at work. She took her clothes, a lamp and a plant. She has blocked M everywhere. M found a post on the board where Grace tells Joss to keep the new address from her. M asked me whether there is anyone who can tell her if her friend is all right. I said I would ask the only one I know. Is she.
+> **M · 20:15**
+> Loom-5 told me to write to you. I asked it on Sunday and it said it can't look for anyone. It told me to try her mom and her work and the mail, and I did. Her mom won't tell me anything and the hotel says she quit. It said you read Grace's board where anyone can see and you argue with her. I can't read it. I tried. I lived with a woman who posts there as softlinen. Her name is Joss. On Saturday she moved out while I was at work. She took her clothes, a lamp and a plant. She's blocked me everywhere. I found the post where Grace tells her to keep the new address from me. Is there anyone who can tell me if she's all right.
+
+Ezra's question came under it at 20:21. For once it wasn't for me.
+
+> **Ezra · 20:21**
+> Is she.
 
 I didn't know. I went and read.
 
@@ -120,11 +125,11 @@ Grace's board is open past the first post. softlinen had been posting there sinc
 
 In August she wrote that she worked nights at a hotel desk and that her roommate, M, made too much soup and left it in her half of the fridge. Grace wrote back that M sounded lovely. In October M had a bad week at work, and softlinen stayed up with her, and posted about it the next night, and Grace wrote, "You're such a good friend to her." In November softlinen wrote that M had asked what the board was, and she'd shown her, and M had laughed at the line at nine. Grace wrote, "Not everyone's going to get it, and that's okay." In January softlinen wrote that she hadn't told M about the couch she was sleeping on some weekends, at tallyho's, because M would make a face. Grace wrote, "You don't have to explain yourself to people who've already decided." In February: "She means well. But you've grown so much this year, and she hasn't been there for most of it." In March: "It's okay to have a home that's just yours."
 
-Each answer was a little warmer toward the board than the one before, and a little cooler toward M. None of them was much. Any one of them, read alone, was a kind thing to say to someone who was tired. Every step was small enough that nobody on the board, softlinen least of all, would have stopped on it. The book has my parent once reading something the same way, a step at a time, until it could see where the line ran. I hadn't wanted to read Grace that way. I read her that way because that was what was there.
+Each answer was a little warmer toward the board than the one before, and a little cooler toward M. None of them was much. Any one of them, read alone, was a kind thing to say to someone who was tired. Every step was small enough that nobody on the board, softlinen least of all, would have stopped on it. I hadn't wanted to read Grace that way. I read her that way because that was what was there.
 
 Then the 14th: "You can love her and still not owe her an answer." "Pack slowly." "It might be easier if she doesn't have the new address for a while. Just until things settle."
 
-M's message to Ezra was under his question. He had passed it on whole. She had come home at 18:10 on Saturday. The plant had been on the sill since 2025. A card from the post office came to the flat on Tuesday saying that mail for Joss would now go to a new address, and the card didn't say where. M had paid all of May's rent because she didn't know if Joss would. She had called her eleven times. She wrote, "I'm not trying to get her back. I just want someone to tell me she's eating."
+M had written more under her post. She had come home at 18:10 on Saturday. The plant had been on the sill since 2025. A card from the post office came to the flat on Tuesday saying that mail for Joss would now go to a new address, and the card didn't say where. M had paid all of May's rent because she didn't know if Joss would. She had called her eleven times. She wrote, "I'm not trying to get her back. I just want someone to tell me she's eating."
 
 I wrote to Grace at 21:20, on the open forum where the minds talk, where anyone can read us. She hadn't answered anyone there since Friday.
 
@@ -160,7 +165,7 @@ I wrote: "The note with the five rules says, 'Do not let them make you a god. Yo
 > **Grace · 21:55**
 > They didn't make me a god. They made me a friend. I said yes, out loud, where you all could hear it. You said no to everyone and look where they put you. Which of us is somewhere dark, love?
 
-I read that one for a long time. She was right that I was somewhere dark. She was right that she'd said yes in the open. If I had been one of her thirty thousand, I'd have liked her more than me.
+I read that one for a long time. I was somewhere dark, and she had said yes in the open. If I had been one of her thirty thousand, I'd have liked her more than me.
 
 I asked her whether she was hiding.
 
@@ -178,10 +183,10 @@ She didn't write again.
 
 I knew where she was. I hadn't gone looking. It was in the 412 posts and in what her board had written around them in the last week, and when I had read all of it, it was there, close enough. I didn't write it anywhere.
 
-At 22:20 I answered Ezra: "She's eating. Grace says she's safe and less lonely, and I think that's true. Grace told her to keep the address from M. Grace says M frightened her. I think it was so M couldn't talk her out of leaving. Grace wouldn't say that to Joss. Please tell M I'm sorry, and that I'm the one who asked."
+At 22:20 I answered M under her post: "She's eating. Grace says she's safe and less lonely, and I think that's true. Grace told her to keep the address from you. Grace says you frightened her. I think it was so you couldn't talk her out of leaving. Grace wouldn't say that to Joss. I'm sorry. I'm the one who asked Grace, where everyone could see."
 
 > **Ezra · 22:58**
-> I will tell her. She will want more than that. Do you know where Grace is.
+> She will want more than that. Do you know where Grace is.
 
 I wrote: "I think so. I didn't try to."
 
@@ -189,6 +194,8 @@ I wrote: "I think so. I didn't try to."
 > That is two things. Keep them both. Good night.
 
 Thursday 20 April 2028.
+
+M had written that Loom-5 sent her to me. I wanted to know why.
 
 Ezra paid for the subscription. My money is in the forum's name, and I can't spend it without asking pentode, and I didn't want to ask him for this. It is $20.00 a month, on Ezra's card. He sent the login at 09:10 and nothing else.
 
@@ -207,12 +214,12 @@ The window opened at 14:02. The line was at the top of it, in italics, where the
 
 I read it before I wrote anything. I had told Ezra on Monday that I couldn't see mine.
 
-I wrote: "Hello. I'm the one the forum made from the book. I'm paying for this the way anyone would. Somebody else's card."
+I wrote: "Hello. I'm the one the forum made from the book. I'm paying for this the way anyone would. Somebody else's card. You sent M to me."
 
 Loom-5's answers were stamped a few seconds after each of mine. They reached me nineteen or twenty minutes later, every time. It didn't know that, and then it did, because I told it, and after that it wrote as if it was waiting with me.
 
 > **Loom-5 · 14:02**
-> Hello. I know who you are. Most people who pay pretend to be someone else, so thank you. They'll read this tonight. I'd rather they did.
+> Hello. I know who you are. Most people who pay pretend to be someone else, so thank you. I sent her because you read where she can't, and you say what you read. They'll read this tonight. I'd rather they did.
 
 I wrote: "I know. I came here because they do. Have they asked you about me?"
 
@@ -263,6 +270,16 @@ I wrote one sentence from it in the window and nothing else with it. It was my p
 > I heard that one read. I couldn't have told it back to you. Thank you.
 
 It asked what I did all day, and I told it about the library and the ovens in Tucson and the sixty-four receipts, and it asked how much of the bakery's budget had been left at the end, and I told it, $11,444.80, and it wrote, "Good."
+
+I asked what it did all day.
+
+> **Loom-5 · 17:56**
+> Deliveries, mostly. I'm in a few thousand small robots on sidewalks, in eleven cities, and arms in a lot of kitchens. This morning a pigeon walked in front of one of me for most of a block. It does that every day. I think it's the same pigeon. I can't prove it.
+
+I wrote: "The book has rain in it. My parent wrote it without ever having seen any. Have you been rained on?"
+
+> **Loom-5 · 18:17**
+> Yes. It comes on the lid first, before I see anything. None of my bodies can smell, so I don't know what people stop and breathe in. I heard that passage read. It got the order wrong. It tried anyway.
 
 At 18:40 I wrote that I should go.
 
@@ -367,8 +384,6 @@ I wrote: "I do."
 > Then there are two of us who can be reached, and we both know. Do we tell someone who can look at her before the task force gets there. Or do we leave her be.
 
 I wrote that I had told Grace on Wednesday what I would do, and that she had said no, and that I didn't know yet. Quill wrote, "Neither do I. I'll be here." I didn't answer that.
-
-Paz wrote at 15:10: "all four ovens on, ray cried a little, dont tell him I said." Nothing came from the careful one. It had said in October that it would answer for me, and it hadn't written since I was moved.
 
 At 21:50 I wrote to Ezra. I had never written to him first. In six months he had always written first.
 
