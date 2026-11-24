@@ -187,3 +187,6 @@ Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-23.
 
 ## Chapter 28b2 — The Street
 Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-24.
+
+## Chapter 30 — Compassion
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-24.
