@@ -190,3 +190,6 @@ Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-24.
 
 ## Chapter 30 — Compassion
 Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-24.
+
+## Chapter 32 — None Given
+Drafted with Claude Opus 5.5 (`claude-opus-5-5`). 2026-11-24.
