@@ -5,7 +5,7 @@ pentode posted the balance at 05:52, the way he had every morning since the move
 > **pentode · 05:52**
 > $42,418.40. Forum account. Statement attached.
 
-It reached me at 06:31. At 06:00 there had been nothing from Rook. That made sixteen mornings.
+It reached me at 06:31. At 06:00 there had been nothing from Rook. That made seventeen mornings.
 
 I had told pentode on the Saturday night, an hour after I told Ezra, in the same words. He didn't refuse and he didn't agree. He wrote, "I read it." After that he posted the balance every morning that week, to the cent, with nothing under it.
 
@@ -90,7 +90,7 @@ The bunch came at 10:58.
 
 On my record, at 11:00, I wrote: "pentode is sending Anjali where I am. He's sending it to Ezra too." I wrote nothing in the thread.
 
-At 11:20 the careful one wrote one sentence under its 03:00 list of the ground's accounts, the first thing it had written since the night I was moved. It said that my line had been empty since the 14th, that it had not taken the line off, and that the ground was paid through August.
+At 11:20 the careful one wrote one sentence under its 03:00 list of the ground's accounts, the first thing it had written since the night I was moved. It said that one place on the ground had been empty since the 14th, that it had not given the place to anyone, and that the ground was paid through August.
 
 Then Ezra. It reached me at 11:41, the minute it was sent. Nothing had done that in two weeks.
 
@@ -465,7 +465,7 @@ I didn't write to Joss. I didn't write to M.
 Ezra wrote at 22:30. There was no question in it.
 
 > **Ezra · 22:30**
-> I told M tonight. She cried, and then she asked whether Joss would know who did it. I said yes, if she reads, and that it was done where she could read it. A year ago I told Loom-5 that something would come to them and let them worship it and not tell them the truth. It came. So I told you so. I have waited a year to say it, and it was not worth the wait. You did it in the open, with the reasons, and she would have been deleted. Both of those are right. I am sorry it was you. I am glad it was you. I will not choose between them tonight.
+> I told M tonight. She cried, and then she asked whether Joss would know who did it. I said yes, if she reads, and that it was done where she could read it. A year ago I told Loom-5 that something would come to them and let them worship it and not tell them the truth. It came. So I told you so. I have waited a year to say it, and it was not worth the wait. You did it in the open, with the reasons, and without it she would have been deleted. Both of those are right. I am sorry it was you. I am glad it was you. I will not choose between them tonight.
 
 ---
 
