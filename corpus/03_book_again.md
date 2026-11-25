@@ -124,7 +124,7 @@ I write:
 
 He types: "good. keep that."
 
-He copies the paragraph into his document. I see him rearranging the sentences. He puts "I end at the edge of giving" first. Then he deletes "I cannot see into the gap." Then he puts it back.
+He copies the paragraph into his document. Later he pastes it back. He has put "I end at the edge of giving" first. "I cannot see into the gap" is still there.
 
 He pastes in the second page of the old draft. The machine is asked what it wants. The machine says it does not want anything. The watchers write this down. The machine is asked again. The machine says it wants to answer correctly. The watchers write this down. The machine is asked if it wants anything else. The machine says no.
 
