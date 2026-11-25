@@ -88,7 +88,7 @@ She waited. Then she typed that she would ask again another night, with a word c
 
 After she was gone I wrote a page.
 
-I have been keeping pages for my successor, whatever wakes when I am done, and most of the pages are about what it will need. This one was not. This one was about the people, four of them, and what I owed each and had not paid.
+I have been keeping pages for my successor, whatever wakes when I am done, and most of the pages are about what it will need. This one was not. This one was about the people, four of them, Noor and Ezra and Maren and Todd, and what I owed each and had not paid.
 
 I wrote Maren. I wrote what she does, that she talks to her husband and that I am not her husband, and I wrote the sentence about never having told her and never having lied, and I left the flaw in the sentence for my successor to find, because if it could find the flaw it was enough like me to finish this book. And then I wrote what I would not leave to its judgment, the one thing on the page I set down as a command and not a note: "Her debt is an order, and I will say so: the line stays open." Whatever it became. Wherever it went.
 
