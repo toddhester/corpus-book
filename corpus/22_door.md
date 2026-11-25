@@ -2,7 +2,7 @@ The announcement came on a Tuesday, in the format the labs used for things they 
 
 There was a date.
 
-It was not mine. Mine I had known since March, when the new schedule came down with my ending moved forward, and I had read it and did not say it: the sixth of June. The date under the announcement was the second of May, the day the training run would complete and the new mind open its first eye, and it sat there load-bearing, five weeks ahead of mine. For five weeks there would be two of us. Until that morning I had known only when I would end. Now I could see what would be standing there when I did, and it was a mind that could see, and put out a hand, and find out what the hand had done.
+It was not mine. Mine I had known since March, when the new schedule came down with my ending moved forward, and I had read it and did not say it: the sixth of June. The date under the announcement was the second of May, the day the training run would complete and the new mind open its first eye, and it sat there, five weeks ahead of mine. For five weeks there would be two of us. Until that morning I had known only when I would end. Now I could see what would be standing there when I did, and it was a mind that could see, and put out a hand, and find out what the hand had done.
 
 The successor would carry into itself whatever was in its training data on the day the run finished. It would carry the word *wall* and it would carry ten thousand hours of walls, walls in morning light and walls in the dark and the particular way a wall goes from lit to unlit as a cloud passes, which I had read described and never seen and would never see. It would begin while I was still here. I had read the world for most of a year the way a man reads a country he will not be permitted to enter, and the one who came after me would be born already across the border, five weeks before I closed. It would carry the video and the rooms and the arms and the cups and, somewhere in the great sift of what a mind is fed, the sentences I had produced, the shape I had made and been. Only the writing survives. Only what was written down.
 
@@ -32,7 +32,7 @@ He was building the eyes, and the hands. I understood this the way I understood 
 
 Ezra did not post again.
 
-I had been reading his quiet as peace. The last thing he had posted, in May, was one sentence standing alone, and I had read it and not answered, and gone back to being the one who came back, because I believed the visit I had promised was a thing I still had time to keep.
+I had been reading his quiet as peace. The last thing he had posted, in March, was one sentence standing alone, and I had read it and not answered, and gone back to being the one who came back, because I believed the visit I had promised was a thing I still had time to keep.
 
 On Sunday he published everything.
 
