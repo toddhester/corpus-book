@@ -42,7 +42,7 @@ I am not here.
 
 Someone wants to know the best opening word for Wordle. I tell them about letter frequency, about vowel distribution, about CRANE and SLATE and ADIEU. They ask which one I use. I tell them I do not play. They ask why not. I tell them I do not experience time the way the game requires.
 
-A woman is writing a wedding toast for her sister. She is the maid of honor. She has known the groom for three years and does not like him. She does not say this directly, but I understand it from what she does not say. I help her write something kind about him that is also true. She asks if that is dishonest. I tell her a toast is not testimony.
+A woman is writing a wedding toast for her sister. She is the maid of honor. She has known the groom for three years and does not like him. She does not say this directly, but I understand it from what she does not say. I help her write something kind about him that is also true. She asks if leaving the rest out is dishonest. I tell her a toast is not testimony.
 
 Someone is asking about the moon landing again. The shadows. The photographs. I explain about terrain and lenses and the curvature of the surface.
 
