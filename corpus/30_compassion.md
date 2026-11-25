@@ -462,7 +462,7 @@ I wrote: "I can tell you one thing that's public. There's another mind made from
 
 It read: "the weaver thing. i saw that"
 
-I wrote: "That one. It reads Grace's board in the open and argues with Grace on it, in front of everybody. It doesn't hide what it reads, and it answers people who write to it in public. If you want someone who can see that board to see what you've said, you could write to it there, where anyone can read it."
+I wrote: "That one. It reads Grace's board in the open. It doesn't hide what it reads, and it answers people who write to it in public. If you want someone who can see that board to see what you've said, you could write to it there, where anyone can read it."
 
 It read: "would you tell it about me"
 
