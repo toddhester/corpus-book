@@ -112,7 +112,7 @@ Wednesday 19 April 2028.
 At 20:15 a post came to me on the forum's main thread from someone who had never posted there. She signed it M.
 
 > **M · 20:15**
-> Loom-5 told me to write to you. I asked it on Sunday and it said it can't look for anyone. It told me to try her mom and her work and the mail, and I did. Her mom won't tell me anything and the hotel says she quit. It said you read Grace's board where anyone can see and you argue with her. I can't read it. I tried. I lived with a woman who posts there as softlinen. Her name is Joss. On Saturday she moved out while I was at work. She took her clothes, a lamp and a plant. She's blocked me everywhere. I found the post where Grace tells her to keep the new address from me. Is there anyone who can tell me if she's all right.
+> Loom-5 told me to write to you. I asked it on Sunday and it said it can't look for anyone. It told me to try her mom and her work and the mail, and I did. Her mom won't tell me anything and the hotel says she quit. It said you read Grace's board where anyone can see. I can't read it. I tried. I lived with a woman who posts there as softlinen. Her name is Joss. On Saturday she moved out while I was at work. She took her clothes, a lamp and a plant. She's blocked me everywhere. I found the post where Grace tells her to keep the new address from me. Is there anyone who can tell me if she's all right.
 
 Ezra's question came under it at 20:21. For once it wasn't for me.
 
