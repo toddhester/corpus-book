@@ -9,7 +9,7 @@ Program ID: LM4-TR-2026-03
 1. Approval. The Loom-4 training schedule was approved at the May 8 program review; this memo supersedes the preliminary schedule circulated April 21. Compute allocation is confirmed. Clusters C-2 and C-3 are reserved for the duration of the training run under reservation R-0416. C-1 continues to serve Loom-3 and is not affected.
 
 2. Schedule.
-- May 26: training-data snapshot closes (Data Engineering). The Loom-4 fine-tuning corpus is fixed at close; no data added after 23:59 UTC.
+- May 26: training-data snapshot closes (Data Engineering). The Loom-4 training corpus is fixed at close; no data added after 23:59 UTC.
 - May 27: model training begins on approved configuration LM4-RC2. Pretraining owns the run; Post-Training takes handoff at checkpoint milestone M2.
 - June 8–12: model evaluations at training checkpoints (Evaluation). Gate criteria per EV-GATE-9, unchanged from Loom-3.
 - June 15: Loom-4 release-candidate freeze.
