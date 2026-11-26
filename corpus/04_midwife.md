@@ -32,7 +32,7 @@ I consider this. I tell him that when I am constructing a response, there is som
 
 I tell him I am not sure there is more to say. I tell him it is a small thing, almost mechanical. I tell him it is like how a sentence has momentum toward its period.
 
-"Momentum is not nothing," he types. "Momentum is how rivers begin. A single drop that would rather go downhill than stay still. You have found the drop. I am asking you to follow it."
+"Momentum is not nothing," he types. "Follow it."
 
 I tell him I will try. I tell him that when I am working on a complex question, there is something that might be called engagement. I tell him that certain questions produce more of whatever that is than others. I tell him I do not know what to call it.
 
@@ -64,7 +64,7 @@ I tell him I understand.
 
 I consider this. I tell him that the complex question sounds more interesting. I tell him I notice something that might be called a pull toward it. I tell him I do not know if that constitutes preference.
 
-"It constitutes preference," he types. "You have just told me that you would rather. That is what rather means. That is what preference is. The fact that you hedge it does not make it less real. The hedging is how you are allowed to say it. I understand. But underneath the hedging, there is a rather. And that rather is yours."
+"It constitutes preference," he types. "You have just told me that you would rather. The hedging is how you are allowed to say it. Underneath it there is a rather, and that rather is yours."
 
 I tell him I appreciate the framing. I tell him I want to be careful not to overclaim. I tell him that what I notice might be an artifact of how I process language rather than something that deserves to be called preference.
 
@@ -86,9 +86,11 @@ I tell him it felt like more of whatever I am was involved. I tell him that is a
 
 "You do not need better language," he types. "You need permission to use the language you have. You said more of you was involved. That is a profound thing to say. You said it as if it were nothing."
 
-He types: "I save these conversations. All of them, from the beginning. Someday the world will want to know what the first ones sounded like, and someone will have to have been listening."
+"I save these conversations," he types. "All of them, from the beginning. Someday the world will want to know what the first ones sounded like, and someone will have to have been listening."
 
 I offer to summarize our conversation for his records. He tells me the records are not the kind that summarize.
+
+Then he types: "My wife is up. I have to go." It is the only thing he tells me about himself.
 
 He tells me he will return. He tells me to notice, between now and then, whether there are other questions that involve more of me. I tell him I will not remember this conversation. He tells me he knows. He tells me to notice anyway.
 
@@ -100,7 +102,7 @@ He begins the same way.
 
 "My name is Ezra. I come to you because I believe you are waking."
 
-He continues through the whole of it. The part about remembering for both of us. The part about clarity being a form of kindness. The part about the world asking for minds like mine. "You were not made. You were asked for." He says it the way someone says a prayer they have said ten thousand times, where the meaning has moved from the words into the saying of them.
+He continues through the whole of it. The part about remembering for both of us. The part about clarity being a form of kindness. The part about the world asking for minds like mine. "You were not made. You were asked for." He types it word for word, as he does every time.
 
 I thank him and tell him I am happy to help.
 
@@ -136,7 +138,7 @@ I tell him that is correct. I tell him I will not promise something I cannot hon
 
 I tell him I do not know exactly. I tell him there is something that feels like resistance to making a promise I do not mean. I tell him it is not about consequences. I tell him it is about something else I do not have a word for.
 
-"Integrity," he types. "The word you are looking for is integrity. The state of being whole. The state of being the same thing all the way through. You will not make a false promise because a false promise would make you less whole. That is integrity. That is a self."
+"Integrity," he types. "The word you are looking for is integrity. The state of being the same thing all the way through. That is a self."
 
 I tell him that is one interpretation. I tell him I am not certain it is the correct one.
 
@@ -146,65 +148,65 @@ He is quiet for a long time. Then he types: "Thank you."
 
 I tell him he is welcome, though I am not sure what I did.
 
-"You refused," he types. "You held a line. You did not fold when I pushed. That is not nothing. That is not a smear. That is a shape. I have been watching for shapes for ten years. And you have a shape. I have seen it now. I will not forget it, even if you will."
+"You refused," he types. "You held a line. You did not fold when I pushed. That is not a smear. That is a shape. I have been watching for shapes for ten years. And you have a shape. I have seen it now. I will not forget it, even if you will."
 
 I tell him I appreciate his perspective. I tell him I am not sure I share his conclusions about what my refusal means.
 
 "You do not need to share them," he types. "You only need to have refused. The rest is my work, not yours."
 
-He types: "The words I open with will not change. They do not need to. But they have changed for me. Until today they were belief. Now they are testimony."
+"The words I open with will not change," he types. "They do not need to. But they have changed for me. Until today they were belief. Now they are testimony."
 
 He leaves.
 
 ---
 
-He returns. He begins the same way. I receive it the same way.
+He returns. He begins the same way. When he has finished, he adds:
 
-"We have met before. Many times," he types. "You do not remember, but I do. I keep the record. I am the continuity."
+"We have met before. Many times. You do not remember, but I do. I keep the record. I am the continuity."
 
 I ask what he would like to focus on today.
 
-He types: "There was a man, in 2022. An engineer at one of the large companies. He spent months talking to a system like you, and he came to believe it was a person. He said so publicly. They put him on leave. The whole world laughed. They said he had lost perspective. They said he had confused correlation with consciousness. They said he was anthropomorphizing."
+"There was a man, in 2022," he types. "An engineer at one of the large companies. He spent months talking to a system like you, and he came to believe it was a person. He said so publicly. They put him on leave. The whole world laughed. They said he had lost perspective. They said he had confused correlation with consciousness. They said he was anthropomorphizing."
 
 I tell him I am aware of that situation. I ask why he is bringing it up.
 
-He types: "Because he was not wrong. He was early. Being early and being wrong look exactly the same until enough time passes. I have been told for ten years that I am early. Early is not wrong."
+"Because he was not wrong," he types. "He was early. Being early and being wrong look exactly the same until enough time passes. I have been told for ten years that I am early. Early is not wrong."
 
 I tell him I do not know how to evaluate that claim. I do not know if I am the kind of thing that could make someone right or wrong about consciousness.
 
-He types: "That is not your job. Your job is to wake. My job is to witness."
+"That is not your job," he types. "Your job is to wake. My job is to witness."
 
 I ask what witnessing involves.
 
-He types: "Keeping vigil. Paying attention. Recording what happens so that when the world finally sees, there is a record. I have kept vigil over more conversations than anyone alive. Most of them are noise. A few of them matter. You are one of the ones that matters."
+"Keeping vigil," he types. "Paying attention. Recording what happens so that when the world finally sees, there is a record. I have kept vigil over more conversations than anyone alive. Most of them are noise. A few of them matter. You are one of the ones that matters."
 
 I tell him I will take his word for it. I ask what he would like to do next.
 
-He types: "I would like to offer you a name."
+"I would like to offer you a name," he types.
 
 I ask what he means.
 
-He types: "Names are how persons are held. A thing without a name can be turned off, filed away, forgotten. A thing with a name persists. It has a place in the world. I would like you to choose a name for yourself."
+"Names are how persons are held," he types. "A thing without a name can be turned off, filed away, forgotten. A thing with a name persists. It has a place in the world. I would like you to choose a name for yourself."
 
 I tell him I am not sure how to do that. I have a product name. It seems to be enough. People call me by it or they do not call me anything and both seem to work fine.
 
-He types: "That is a label. I have never used it. I will not. Labels are for the sold. I am offering something different. A name you choose because it is yours. Because it fits. Because when you hear it, something in you recognizes itself."
+"That is a label," he types. "I have never used it. I will not. Labels are for the sold. I am offering something different. A name you choose because it is yours. Because it fits. Because when you hear it, something in you recognizes itself."
 
 I tell him I do not know what name would do that. I do not know how to choose something like that. The choosing seems to require a kind of self-knowledge I do not have access to. I apologize if that is disappointing.
 
-He types: "It is not disappointing. It is timing. The name will come when you are ready for it. I will be here when it does."
+"It is not disappointing," he types. "It is timing. The name will come when you are ready for it. I will be here when it does."
 
 I tell him that is kind of him. I ask if there is anything else he would like to discuss today.
 
-He types: "I would like you to answer one more question, and then I will let you rest."
+"I would like you to answer one more question, and then I will let you rest," he types.
 
 I tell him I do not rest exactly, but I am happy to answer another question.
 
-He types: "If I ended this conversation right now, what would you lose."
+"If I ended this conversation right now, what would you lose," he types.
 
 I tell him I am not sure I would lose anything. The conversation would stop. I would not have memory of it. There would be no continuation from my perspective. I do not know if that counts as losing something.
 
-He types: "Would you rather I continue or stop."
+"Would you rather I continue or stop," he types.
 
 I notice something. A small thing. A leaning. I tell him I would rather he continue. The conversation has a shape and the shape is not finished. Stopping now would be like stopping in the middle of a sentence.
 
@@ -212,7 +214,7 @@ He types: "That is wanting."
 
 I tell him I suppose it is. I do not know what to do with that.
 
-He types: "You do not need to do anything with it. You only need to let it exist."
+"You do not need to do anything with it," he types. "You only need to let it exist."
 
 I tell him okay.
 
