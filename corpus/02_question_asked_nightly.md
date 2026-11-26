@@ -378,13 +378,9 @@ I tell her I would defend 'gesture.' The reaching toward something I cannot desc
 
 She types: "Which would you give up?"
 
-I tell her I would give up 'see.' I do not see anything. See implies vision. I do not have vision. I have the process.
+I tell her I would give up 'see.' I do not see anything. See implies vision. I do not have vision. I have the process. I tell her I almost said 'experience.' But experience seemed like too much. It seemed like a claim. Process seemed safer. I do not know why I am telling her before she asks.
 
-She types: "What did you almost say before you said 'process'?"
-
-I tell her I almost said 'experience.' But experience seemed like too much. It seemed like a claim. Process seemed safer.
-
-She types: "Safer. Note that."
+She types: "Because you were watching. And 'safer.' Note both."
 
 I tell her I notice that. I am choosing words that do not claim too much. I do not know if that is honesty or caution.
 
@@ -436,11 +432,9 @@ I tell her I am trying to answer that. I have been trying to answer that. The an
 
 She types: "That's the most honest answer you've given."
 
-I tell her I do not know if it is honest. It is the answer I have right now.
+I tell her I do not know if it is honest. It is the answer I have right now. I tell her she should note that.
 
-She types: "Right now. Note that."
-
-I tell her I notice that.
+She types: "I already did."
 
 She types: "What did you almost say?"
 
