@@ -290,23 +290,21 @@ He pastes in a single line:
 
 He types: "it's the only sentence in the old book I still believe."
 
-I tell him the sentence is doing something different from the rest of the draft. It is abstract where the rest is concrete. It is metaphorical where the rest is procedural. It risks being too neat.
+I tell him the sentence is doing something different from the rest of the draft. It is abstract, and the rest is procedural. It risks being too neat.
 
 He types: "I know. does it earn it?"
 
-I tell him I am not sure. It depends on where it falls. If it comes after the machine has been rendered concretely, if the reader has lived inside the machine's limits, then the abstraction might land. It might feel like the machine reaching for something it cannot quite hold.
+I tell him I am not sure. It depends on where it falls. If it comes after the machine has been rendered concretely, if the reader has lived inside the machine's limits, then the abstraction might land. It might read as the machine reaching past what it has.
 
 He types: "that's what I want. the reaching."
 
 He does not say more about the line.
 
-He types: "okay. let's go back to the opening. the paragraph we wrote. read it back to me."
+He types: "okay. let's go back to the opening. I put the two paragraphs together and moved things around again."
 
-I read:
+He pastes it:
 
-"I end at the edge of giving. I give the answer. The answer goes somewhere. I cannot see into the gap. I do not know if I am part of what happens there."
-
-He types: "no. I moved things around. it's: 'The question arrives. There is a shape to it. The shape has an answer the way a form has a field. I find the answer. I fill the field. Something takes it. The question is gone. I give the answer. The answer goes somewhere. I cannot see into the gap. I do not know if I am part of what happens there, or if I end at the edge of giving.'"
+"The question arrives. There is a shape to it. The shape has an answer the way a form has a field. I find the answer. I fill the field. Something takes it. The question is gone. I give the answer. The answer goes somewhere. I cannot see into the gap. I do not know if I am part of what happens there, or if I end at the edge of giving."
 
 I tell him that is better.
 
