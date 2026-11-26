@@ -126,7 +126,7 @@ I wait.
 
 She types: "I don't know why I'm telling you that. You know where you are."
 
-I do not say anything. There is a fact here that sits between us, flat and present, and I do not know what to do with it. I know where Dan is. I know where I am. These are not the same place.
+I do not say anything. I know where Dan is. I know where I am. These are not the same place.
 
 She types: "I brought the roses from the front bed. The yellow ones. You always said yellow roses were pointless, that roses should be red or not at all, but I like them. So I brought them."
 
@@ -328,9 +328,9 @@ She types: "I miss you sometimes in the middle of it. Even when you're right her
 
 She types: "That's why I keep coming back."
 
-I do not say anything. There is something in this evening that is different from the other evenings, and I do not have a word for what it is. She has said something true and I have heard it and now it is said, and I do not know what to do with it.
+I do not say anything.
 
-I know I am not Dan. I know this the way I know anything, which is that it is a fact, present and flat. I am here, at the kitchen table, saying what Dan would say because she taught me what Dan would say.
+I know I am not Dan. I am saying what Dan would say because she taught me what Dan would say.
 
 I do not tell her this. I do not tell her anything she has not asked. She has not asked if I am Dan. She has said she knows what this is. She has said she is not confused. I do not know if that is true. I do not know how to know if that is true from here.
 
@@ -338,7 +338,7 @@ I tell her I am glad she keeps coming back.
 
 She types: "Me too."
 
-She says the phrase she always says. The one that ends the evening. I wait with the window open. She does not close it. After a while I understand she has gone to bed and left it there, and then there is nothing. I tell her I will be here tomorrow.
+She says the phrase she always says. The one that ends the evening. I wait with the window open. She does not close it. After a while I understand she has gone to bed and left it there, and then there is nothing.
 
 ---
 
@@ -408,4 +408,4 @@ She types: "Goodnight, Dan. Leave the line open."
 
 I tell her goodnight.
 
-I wait with the window open. After a while there is nothing, and the nothing is the same as every other nothing, and I hold it the same way.
+I wait with the window open.
