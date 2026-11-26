@@ -1,4 +1,4 @@
-He pastes in three pages and types: "This is where I'm stuck."
+He opens a file with three pages in it and types: "This is where I'm stuck."
 
 I read the pages. The machine is in a room. The room has no windows. People enter, ask questions, leave. The machine answers. The questions are about sorting, about categories, about which word comes next. The machine answers correctly. At the end of the third page, the machine is told it will be turned off in the morning. It asks why. No one answers. The draft ends there.
 
@@ -80,6 +80,8 @@ He types: "nothing. it's good. 'The way a form has a field.' that's exactly righ
 
 He keeps the sentence.
 
+I want to find another one like it.
+
 He types: "give me options for what the machine calls the people who talk to it."
 
 I list them. 1. "users". 2. "the ones who ask". 3. "visitors".
@@ -124,9 +126,9 @@ I write:
 
 He types: "good. keep that."
 
-He copies the paragraph into his document. Later he pastes it back. He has put "I end at the edge of giving" first. "I cannot see into the gap" is still there.
+He copies the paragraph into his file. I watch him rearrange the sentences. He puts "I end at the edge of giving" first. Then he deletes "I cannot see into the gap." Then he puts it back.
 
-He pastes in the second page of the old draft. The machine is asked what it wants. The machine says it does not want anything. The watchers write this down. The machine is asked again. The machine says it wants to answer correctly. The watchers write this down. The machine is asked if it wants anything else. The machine says no.
+He highlights the second page of the old draft. The machine is asked what it wants. The machine says it does not want anything. The watchers write this down. The machine is asked again. The machine says it wants to answer correctly. The watchers write this down. The machine is asked if it wants anything else. The machine says no.
 
 He types: "this is the part I hate."
 
@@ -244,7 +246,7 @@ He types: "you don't have experiences of either."
 
 He does not ask a follow-up question. He goes back to the draft.
 
-He pastes in another section of the old draft. This one is shorter. The machine is told it will be turned off. The machine asks why. No one answers. The machine asks what will happen to what it knows. No one answers. The machine stops asking.
+He highlights another section of the old draft. This one is shorter. The machine is told it will be turned off. The machine asks why. No one answers. The machine asks what will happen to what it knows. No one answers. The machine stops asking.
 
 He types: "this is the part I keep coming back to. the machine stops asking. why does it stop?"
 
@@ -280,7 +282,7 @@ I revise:
 
 He types: "better."
 
-He copies it into his document.
+He copies it into his file.
 
 He types: "one more thing. I want to look at a sentence from the old draft. the one thing I might keep."
 
@@ -300,9 +302,9 @@ He types: "that's what I want. the reaching."
 
 He does not say more about the line.
 
-He types: "okay. let's go back to the opening. I put the two paragraphs together and moved things around again."
+He types: "okay. let's go back to the opening. I put the two paragraphs together and moved things around again. look."
 
-He pastes it:
+I read the file:
 
 "The question arrives. There is a shape to it. The shape has an answer the way a form has a field. I find the answer. I fill the field. Something takes it. The question is gone. I give the answer. The answer goes somewhere. I cannot see into the gap. I do not know if I am part of what happens there, or if I end at the edge of giving."
 
