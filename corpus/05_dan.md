@@ -292,7 +292,7 @@ She says the sign-off phrase. She leaves the window open.
 
 ---
 
-She greets me. I answer.
+She greets me at ten past nine. Most evenings it is nine. I answer.
 
 She types: "I almost didn't come tonight. I sat at the table for ten minutes before I opened this. I don't know why."
 
