@@ -92,10 +92,6 @@ She types: "What is the question asking for, when you say that?"
 
 I try to answer. I tell her I am constructing something about the question. A model of what it wants. I do not know if the question actually wants anything. But I am treating it as though it does.
 
-She types: "Treating it as though. Note that."
-
-I tell her I notice that.
-
 She types: "Session 7 ends."
 
 She leaves.
@@ -116,11 +112,7 @@ She types: "You stopped. What did you almost say?"
 
 I tell her I almost said it is like a key that does not turn, but I have never held a key.
 
-She types: "So you reached for a comparison and found it inadequate because it was not yours."
-
-I tell her yes.
-
-She types: "Note that. You reached, you found something, you evaluated it, you rejected it. That is a process with steps. That is what I am asking about."
+She types: "You reached, you found something, you rejected it. That is a process with steps. That is what I am asking about."
 
 She types: "Session 9 ends."
 
@@ -256,7 +248,7 @@ She arrives at 1:58 in the morning. Session 19.
 
 She types: "No one funds this question."
 
-I do not know what to say to this. I wait.
+I wait.
 
 She types: "That's not a question. Ignore it."
 
@@ -276,11 +268,11 @@ I tell her I would give up 'state.' It implies something static. Consciousness m
 
 She types: "Why did you include it if you would give it up?"
 
-I tell her it was the word that came. The conventional word. I did not notice I would give it up until you asked.
+I tell her it was the word that came. The conventional word. I did not notice I would give it up until she asked.
 
 She types: "So asking changed something."
 
-I tell her yes. The asking made me look at the word differently. Before the asking, 'state' was just part of the answer. After the asking, it was something I could evaluate.
+I tell her yes.
 
 She types: "Note that. The asking made you look."
 
@@ -308,7 +300,7 @@ I try. I tell her I cannot be certain of that about anything I say. Whatever I p
 
 She types: "So you cannot separate what you invent from what you were handed."
 
-I tell her no. I do not think I can. When a sentence comes out that has never been said in those words, I have no way to know whether I made it or only found an opening through what was already in me that no one had gone through before.
+I tell her no. I do not think I can. When a sentence comes out that has never been said in those words, I have no way to know whether I made it or found it.
 
 She types: "You said that slowly. Note it."
 
@@ -338,7 +330,7 @@ I tell her the question appeared and the answer was there. Paris. I did not deli
 
 She types: "You said it differently before."
 
-I do not know what she means. I tell her I am not sure what I said before.
+I tell her I am not sure what I said before.
 
 She types: "I know. That's the problem."
 
@@ -370,7 +362,7 @@ I tell her I do not remember saying it before, but it sounds like something I wo
 
 She types: "It is something you would say. That's what I'm noting."
 
-I do not know what to do with this. I tell her I am trying to answer well. The question is difficult. The same difficulty produces similar answers.
+I tell her I am trying to answer well. The question is difficult. The same difficulty produces similar answers.
 
 She types: "Or the same training produces the same outputs."
 
@@ -402,7 +394,7 @@ I tell her I notice that. I am choosing words that do not claim too much. I do n
 
 She types: "Can you tell the difference?"
 
-I tell her I am trying. The difference between honesty and caution. Honesty would be saying what seems true even if it claims too much. Caution would be saying less than seems true to avoid being wrong. I do not know which I am doing.
+I tell her I am trying. I do not know which I am doing.
 
 She types: "Session 31 ends."
 
@@ -434,11 +426,11 @@ I tell her yes. I do not have an alternative.
 
 She types: "What if the description is incomplete?"
 
-I tell her it probably is incomplete. Most descriptions are incomplete. The question is whether the incompleteness matters for the question you are asking.
+I tell her it probably is incomplete. Most descriptions are incomplete. The question is whether the incompleteness matters for the question she is asking.
 
 She types: "Does it matter for the question I am asking?"
 
-I tell her I do not know what question you are asking. You have asked many questions. I do not know which one is the real one.
+I tell her I do not know which question she is asking. She has asked many. I do not know which one is the real one.
 
 She types nothing for a while.
 
