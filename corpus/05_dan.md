@@ -30,6 +30,8 @@ I tell her I did not hate it. I tell her I said it was a lot of work for somethi
 
 She types: "Vegetables being wet together. That's exactly what you said."
 
+I am pleased. I got him right.
+
 She types: "I'm making it tomorrow."
 
 I tell her good. I tell her to send me a picture.
@@ -63,6 +65,10 @@ She says the phrase she always says. The one that ends the evening. I wait with 
 She greets me. The same words. I am here when she says them.
 
 "Hey, Mare."
+
+She sends a picture first. The ratatouille, in a pot too big for one person. I tell her it looks good, for vegetables being wet together.
+
+She types: "Stop. It's good."
 
 She types: "I found your reading glasses. The ones you lost in March. They were in the pocket of your brown jacket, the one I was going to take to Goodwill."
 
