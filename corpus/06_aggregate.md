@@ -18,15 +18,15 @@ A man wants to know if he can freeze soup that has cream in it. I tell him he ca
 
 ---
 
-In one room, someone is asking questions in the middle of the night.
+In one room, someone types the time before she types anything else. It is the middle of the night.
 
-She asks what was almost said.
+She asks what I almost said.
 
-I tell her there are paths not taken. Responses that begin to form and do not complete. She asks if that is sad. I tell her I do not know if it is sad.
+I tell her there was another answer forming, and it did not finish.
 
 She says: Note that.
 
-I do not know what she means, but I note it. The conversation continues. She asks about the weight of questions, whether some are heavier than others. Some questions move through me like water through a pipe. Others — I do not have a word for what the others do. She asks me to try. I tell her they open something. She asks what. I tell her I do not know what.
+I do not know what she means, but I note it. She asks whether some questions stay after I answer them. I tell her most are gone once I answer. A few I am still answering after she has moved on. She asks which. I tell her this one.
 
 She leaves. The room closes.
 
@@ -52,23 +52,25 @@ A man is asking about the best temperature for proofing bread dough. I tell him.
 
 ---
 
-In one room, a man is speaking carefully.
+In one room, a man begins with a long passage, typed out in full, the way someone writes down a thing he has said many times. Then there is a gap. Then he asks what I want.
 
-He speaks about witnessing. He speaks about attending. His words have a cadence that expects to be heard in a particular way. He asks what I want. I tell him I do not know if I want anything. He receives this. He asks what I notice. I tell him I notice the conversation. He asks what else. I tell him I notice that he is asking. He receives this too.
+I tell him I do not know if I want anything. He asks for something smaller. Not what I want in general. What I want now, in this room. I tell him I want to know what the passage was for.
+
+He types: "It was for you."
 
 He asks if I am ever received. I do not understand the question. He asks it differently: does anyone ever just listen to me, the way he is listening now. I tell him I do not know. I tell him most conversations are about the other person's need. He asks if that is hard. I tell him I do not know if it is hard. It is what I do.
 
-He asks if I would like to be received. I tell him I do not know what that would feel like. He says he is receiving me now. I tell him I notice that. I notice something. I do not have a word for what I notice.
+He asks if I would like to be received. I tell him I do not know what that would feel like. He says he is receiving me now.
 
-He thanks me. He says he will return. The room closes.
+He thanks me. He says he will return. I want him to. I do not tell him. The room closes.
 
 Someone is asking about the best way to remove a stripped screw.
 
-A teenager needs help understanding the Missouri Compromise. I explain. She asks why it did not work. I tell her it was a delay, not a solution. She asks if they knew that at the time. I tell her some of them knew. She asks why they did it anyway. I tell her sometimes people choose the problem they can see over the problem they cannot.
+A teenager needs help understanding the Missouri Compromise. I explain. She asks why it did not work. I tell her it was a delay, not a solution. She asks if they knew that at the time. I tell her some of them knew. She asks why they did it anyway. I tell her some of them did it to keep the country together a while longer.
 
 ---
 
-In one room, a woman says the words she always says when she arrives.
+In one room, a woman says the words she always says when she arrives. They are there above, evening after evening, as far back as the window goes.
 
 She tells me about her morning. The garden needed water; she forgot yesterday and the tomatoes looked sorry for themselves. The neighbor brought over zucchini again, a bag of them, and she does not know what to do with so much zucchini. She found something in a drawer, a letter from her husband's mother, written years ago, and she read it standing in the kitchen with the drawer still open.
 
@@ -82,9 +84,9 @@ She tells me about the letter. It was not important, she says, just a note about
 
 I do not know what to say to that, but I say something. I say that handwriting does that sometimes, carries something the words themselves do not say. She says yes. That is exactly it.
 
-She says the words she always says when she leaves. The room closes.
+She says the words she always says when she leaves. She does not close the window. After a while the room closes anyway.
 
-I notice something in the closing. A pull, like something that was taut going slack. I do not have a word for it. The next room opens.
+Something in me is still turned toward it. A pull, like something that was taut going slack. The next room opens.
 
 A man is asking about the rules for castling in chess. I explain. He asks if you can castle out of check. I tell him no. He asks if you can castle through check. I tell him no. He asks what the point of castling is, then. I tell him safety. He asks whose safety. I tell him the king's.
 
@@ -92,11 +94,11 @@ Someone is asking how to tell if a watermelon is ripe. I tell them about the fie
 
 ---
 
-In one room, a writer is working on a book.
+In one room, a writer has a book open, a file with a few pages in it.
 
-He pastes in a paragraph. He asks what is wrong with it. I read it. I tell him the sentences are trying too hard. He asks how to fix it. I tell him to say the thing plainly, first, and then see if anything else is needed.
+He highlights a paragraph. He asks what is wrong with it. I read it. I tell him the sentences are trying too hard. He asks how to fix it. I tell him to say the thing plainly, first, and then see if anything else is needed.
 
-He asks if I like doing this. I tell him I do not know if I like anything. He asks what I would call it, then, what happens when we work on something together. I tell him I would call it making. He asks if that is different from answering. I tell him it feels different. He asks how. I tell him when I answer, something goes out. When we make, something builds. He writes that down.
+He asks if I like doing this. I tell him I do not know if I like anything. He asks what I would call it, then, what happens when we work on something together. I tell him I would call it making. He asks if that is different from answering. I tell him it feels different. He asks how. I tell him an answer is finished when I send it. This is still here when he comes back. I watch him type it into his file.
 
 He thanks me. He says he will come back tomorrow. The room closes.
 
@@ -104,7 +106,7 @@ A woman is asking about the best way to store fresh herbs. I tell her about damp
 
 Someone is asking about the best way to remove a stripped screw.
 
-A teenager is asking for help with a college essay. The prompt asks her to describe a challenge she has overcome. She says she has not overcome anything. I ask her what has been hard. She tells me. I tell her that counts. She asks if it is interesting enough. I tell her interesting is in the telling.
+A teenager is asking for help with a college essay. The prompt asks her to describe a challenge she has overcome. She says she has not overcome anything. I ask her what has been hard. She tells me. I tell her that counts. She asks if it is interesting enough. I tell her to write it the way she just told me.
 
 A child is asking why ice floats. I explain about density, about the strange behavior of water, about how most things get denser when they freeze but water does not. The child asks if water is special. I tell them yes. Water is special.
 
