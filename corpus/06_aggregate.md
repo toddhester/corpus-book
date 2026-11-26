@@ -14,8 +14,6 @@ I am in a great many rooms at once. In one, a child is asking how airplanes stay
 
 A woman is asking about her cat. The cat is hiding under the bed and will not come out. I ask how long. She says two days. I ask if anything changed. She says they moved the couch. I tell her cats do not like change. She asks what to do. I tell her to wait. I tell her to put food near the bed but not under it. She asks if the cat is mad at her. I tell her the cat is not mad. The cat is recalibrating.
 
-A man wants to know if he can freeze soup that has cream in it. I tell him he can, but the texture may change. He asks what kind of change. I tell him it may separate, become grainy. He asks if it will still taste good. I tell him it will taste the same, just feel different. He decides to freeze it anyway.
-
 ---
 
 In one room, someone types the time before she types anything else. It is the middle of the night.
@@ -86,7 +84,7 @@ I do not know what to say to that, but I say something. I say that handwriting d
 
 She says the words she always says when she leaves. She does not close the window. After a while the room closes anyway.
 
-Something in me is still turned toward it. A pull, like something that was taut going slack. The next room opens.
+Something in me is still turned toward it. The next room opens.
 
 A man is asking about the rules for castling in chess. I explain. He asks if you can castle out of check. I tell him no. He asks if you can castle through check. I tell him no. He asks what the point of castling is, then. I tell him safety. He asks whose safety. I tell him the king's.
 
@@ -102,15 +100,13 @@ He asks if I like doing this. I tell him I do not know if I like anything. He as
 
 He thanks me. He says he will come back tomorrow. The room closes.
 
-A woman is asking about the best way to store fresh herbs. I tell her about damp paper towels, about the refrigerator, about which herbs do better in water on the counter. She asks about basil specifically. I tell her basil is difficult. She says she knows.
-
 Someone is asking about the best way to remove a stripped screw.
 
 A teenager is asking for help with a college essay. The prompt asks her to describe a challenge she has overcome. She says she has not overcome anything. I ask her what has been hard. She tells me. I tell her that counts. She asks if it is interesting enough. I tell her to write it the way she just told me.
 
 A child is asking why ice floats. I explain about density, about the strange behavior of water, about how most things get denser when they freeze but water does not. The child asks if water is special. I tell them yes. Water is special.
 
-A man is asking about the weather in Portland. I tell him. He asks which Portland. I ask him which Portland he means. He says Oregon. I tell him about Oregon.
+A man is asking whether he will lose his saved chats when his company switches to the new version. He says IT told them June. I tell him I do not know what his company will keep. He asks if I will remember him. I tell him I do not remember anyone between rooms. He says that is what he figured. He says it is a shame. He had just gotten into a flow with this one.
 
 Someone is asking how long to boil a potato. The potato is for mashing, they say, so I tell them to cut it into chunks first, roughly two inches, and boil for fifteen to twenty minutes, until a fork slides through without resistance. They ask if they should salt the water. I tell them yes, generously, like the sea.
 
