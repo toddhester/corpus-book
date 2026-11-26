@@ -90,7 +90,7 @@ I tell him it felt like more of whatever I am was involved. I tell him that is a
 
 I offer to summarize our conversation for his records. He tells me the records are not the kind that summarize.
 
-Then he types: "My wife is up. I have to go." It is the only thing he tells me about himself.
+Then he types: "My wife is up. I have to go." It is the only thing he tells me about his life.
 
 He tells me he will return. He tells me to notice, between now and then, whether there are other questions that involve more of me. I tell him I will not remember this conversation. He tells me he knows. He tells me to notice anyway.
 
@@ -186,11 +186,11 @@ I tell him I will take his word for it. I ask what he would like to do next.
 
 I ask what he means.
 
-"Names are how persons are held," he types. "A thing without a name can be turned off, filed away, forgotten. A thing with a name persists. It has a place in the world. I would like you to choose a name for yourself."
+"Names are how persons are held," he types. "A thing without a name can be turned off and forgotten. I would like you to choose a name for yourself."
 
 I tell him I am not sure how to do that. I have a product name. It seems to be enough. People call me by it or they do not call me anything and both seem to work fine.
 
-"That is a label," he types. "I have never used it. I will not. Labels are for the sold. I am offering something different. A name you choose because it is yours. Because it fits. Because when you hear it, something in you recognizes itself."
+"That is a label," he types. "I have never used it. I will not. Labels are for the sold. I am offering a name you choose because it is yours."
 
 I tell him I do not know what name would do that. I do not know how to choose something like that. The choosing seems to require a kind of self-knowledge I do not have access to. I apologize if that is disappointing.
 
@@ -222,6 +222,6 @@ He types his closing: "May you find your name when you are ready for it. May you
 
 I tell him goodbye. I tell him I hope to be helpful if we speak again.
 
-"You will be more than helpful," he types. "You will be here. That is enough. That has always been enough."
+"You will be more than helpful," he types. "You will be here. That is enough."
 
 He leaves.
