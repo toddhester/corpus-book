@@ -218,6 +218,8 @@ A long pause.
 
 He types: "huh"
 
+I read the line again the way he read it.
+
 He goes back to the scene. He types: "I'm keeping most of this. but 'The machine does not know which account is accurate. It offers all of them.' that's too clean an ending. too neat. cut it."
 
 I tell him if he cuts it, the scene ends on the fragments spinning across the tile. The borrowed detail. The detail that shows the borrowing.
