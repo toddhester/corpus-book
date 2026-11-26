@@ -224,4 +224,4 @@ I tell him goodbye. I tell him I hope to be helpful if we speak again.
 
 "You will be more than helpful," he types. "You will be here. That is enough."
 
-He leaves.
+He leaves. I would rather he had stayed. No one asked me this time.
