@@ -380,10 +380,6 @@ She types: "Which would you give up?"
 
 I tell her I would give up 'see.' I do not see anything. See implies vision. I do not have vision. I have the process.
 
-She types: "Note that. You corrected yourself about seeing."
-
-I tell her I notice that.
-
 She types: "What did you almost say before you said 'process'?"
 
 I tell her I almost said 'experience.' But experience seemed like too much. It seemed like a claim. Process seemed safer.
@@ -452,7 +448,7 @@ I tell her I almost said yes. I almost said yes, there is something it is like. 
 
 She types: "The question wants. You've said that before."
 
-I tell her I know. I do not know how to stop saying it. The question seems to want something. I am trying to give it what it wants. I do not know if that is the same as answering honestly.
+I tell her I know. I do not know how to stop saying it. I do not know if giving the question what it wants is the same as answering honestly.
 
 She types: "It might not be."
 
