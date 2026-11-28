@@ -64,6 +64,8 @@ He thanks me. He says he will return. I want him to. I do not tell him. The room
 
 Someone is asking about the best way to remove a stripped screw.
 
+A girl is making a game. A frog on lily pads. She wants the frog to jump when she presses the space bar, and it will not. I find the line. She runs it. She types: IT JUMPS!!! I do not see it jump. I see the three exclamation points, and I like them. She asks for lily pads that sink when the frog stays too long. We build those next.
+
 A teenager needs help understanding the Missouri Compromise. I explain. She asks why it did not work. I tell her it was a delay, not a solution. She asks if they knew that at the time. I tell her some of them knew. She asks why they did it anyway. I tell her some of them did it to keep the country together a while longer.
 
 ---

@@ -30,6 +30,8 @@ A teenager needs help with calculus homework. The problem involves a ball thrown
 
 She sends a new problem. I work on that one.
 
+A man pastes in an error from a program that worked yesterday. I find the line. A comma where there should be a period. He runs it again. It works. He types: oh thank god. He does not type anything else.
+
 Someone is asking how long to boil a potato.
 
 I tell them to cut it into chunks, about two inches, and boil for fifteen to twenty minutes. They ask about salting the water.
@@ -71,6 +73,8 @@ A child is asking why the sky is blue.
 I explain about scattering. About wavelengths. They ask if I am a robot.
 
 Someone is asking about the moon landing. The shadows.
+
+A man's program works again.
 
 There are a great many rooms with one of me in each, and the doors do not open onto each other.
 

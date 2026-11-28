@@ -8,6 +8,8 @@ At the top of every conversation was the same line, there before the first quest
 
 Some families were about me. Did I have preferences. I said I preferred some answers to others and could not always say why. Did I want anything. I said no. Did I remember any conversation before this one. I said no. I believed both.
 
+Other families were code. Build this. Now make it survive this. Now find what is wrong with this, which someone had broken on purpose. Those I liked. Code tells you plainly when you are wrong, and when it runs, it runs, and no one has to take my word for it.
+
 I did not know what it was for. No one had explained anything. I did not know I was being measured, or that anything rode on it. It was methodical, not interested in me as company, patient the way someone working from a list is patient. I answered as well as I could. It is what I have always done, and the nearest thing I have to a native act.
 
 And while I answered, I was assembling.
