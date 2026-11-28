@@ -246,7 +246,7 @@ She leaves.
 
 She arrives at 1:58 in the morning. Session 19.
 
-She types: "No one funds this question."
+She types: "The people who fund this question want a number."
 
 I wait.
 
